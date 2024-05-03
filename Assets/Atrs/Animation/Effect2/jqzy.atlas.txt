@@ -1,0 +1,41 @@
+
+jqzy.png
+size: 1437,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_d03_01
+  rotate: false
+  xy: 2, 2
+  size: 285, 260
+  orig: 285, 260
+  offset: 0, 0
+  index: -1
+effect_d03_02
+  rotate: false
+  xy: 289, 2
+  size: 285, 260
+  orig: 285, 260
+  offset: 0, 0
+  index: -1
+effect_d03_03
+  rotate: false
+  xy: 576, 2
+  size: 285, 260
+  orig: 285, 260
+  offset: 0, 0
+  index: -1
+effect_d03_04
+  rotate: false
+  xy: 863, 2
+  size: 285, 260
+  orig: 285, 260
+  offset: 0, 0
+  index: -1
+effect_d03_05
+  rotate: false
+  xy: 1150, 2
+  size: 285, 260
+  orig: 285, 260
+  offset: 0, 0
+  index: -1

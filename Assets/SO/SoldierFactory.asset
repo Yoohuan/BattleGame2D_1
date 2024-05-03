@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf3026a8ae27d5b40a59eaeb5d0d6dfb, type: 3}
+  m_Name: SoldierFactory
+  m_EditorClassIdentifier: 
+  d_Soldier1:
+    prefab: {fileID: 6025556458595650009, guid: 75eb002dd9c53d54abfea1a2d9450a3f, type: 3}
+    quantity: 5
+  d_Soldier2:
+    prefab: {fileID: 6967385986539722898, guid: a754dced045216b4fb8fd42370e6e11e, type: 3}
+    quantity: 4
+  d_Soldier3:
+    prefab: {fileID: 8054135948546944890, guid: 81de91dc8547bb949a13f604cfbf3f63, type: 3}
+    quantity: 2
+  d_Soldier4:
+    prefab: {fileID: 6817236476170634247, guid: 558c17b5d28def541b00609ecd6e6067, type: 3}
+    quantity: 1
+  d_Soldier5:
+    prefab: {fileID: 2054302032344368569, guid: 6568a63b3671f824b81f8e8827d60c79, type: 3}
+    quantity: 0
+  a_Soldier1:
+    prefab: {fileID: 8195259148300439048, guid: 33c0d1b07a44fef4aaa89804de3743df, type: 3}
+    quantity: 7
+  a_Soldier2:
+    prefab: {fileID: 5861972718312433056, guid: 82dc877a94ac5314fa5b7472687c8cd0, type: 3}
+    quantity: 7
+  a_Soldier3:
+    prefab: {fileID: 9186931174259531591, guid: 6006539ca772d27428eb2eb80336ed76, type: 3}
+    quantity: 7
+  a_Soldier4:
+    prefab: {fileID: 789017912426386641, guid: 53547d361e1f3d143b12e44f0853b6c3, type: 3}
+    quantity: 7
+  a_Soldier5:
+    prefab: {fileID: 2217501839359643149, guid: d05263922bfab1e47be5b9c433d51330, type: 3}
+    quantity: 7
+  a_Soldier6:
+    prefab: {fileID: 5375117028473281869, guid: 964f99b8fdcf78940b523b49203a735f, type: 3}
+    quantity: 7
+  a_Soldier7:
+    prefab: {fileID: 7140862433198099215, guid: b0d1e91304b429346b25e7ebc45835b1, type: 3}
+    quantity: 7

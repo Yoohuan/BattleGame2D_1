@@ -1,0 +1,55 @@
+
+hedan.png
+size: 1218,650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz_1
+  rotate: false
+  xy: 2, 306
+  size: 302, 342
+  orig: 302, 342
+  offset: 0, 0
+  index: -1
+bz_2
+  rotate: false
+  xy: 306, 306
+  size: 302, 342
+  orig: 302, 342
+  offset: 0, 0
+  index: -1
+bz_3
+  rotate: true
+  xy: 2, 2
+  size: 302, 342
+  orig: 302, 342
+  offset: 0, 0
+  index: -1
+bz_4
+  rotate: false
+  xy: 610, 306
+  size: 302, 342
+  orig: 302, 342
+  offset: 0, 0
+  index: -1
+bz_5
+  rotate: true
+  xy: 346, 2
+  size: 302, 342
+  orig: 302, 342
+  offset: 0, 0
+  index: -1
+bz_6
+  rotate: false
+  xy: 914, 306
+  size: 302, 342
+  orig: 302, 342
+  offset: 0, 0
+  index: -1
+bz_7
+  rotate: true
+  xy: 690, 2
+  size: 302, 342
+  orig: 302, 342
+  offset: 0, 0
+  index: -1

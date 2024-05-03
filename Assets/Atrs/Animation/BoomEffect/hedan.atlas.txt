@@ -1,0 +1,118 @@
+
+hedan.png
+size: 1426,610
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2420_01
+  rotate: false
+  xy: 1338, 465
+  size: 86, 143
+  orig: 86, 143
+  offset: 0, 0
+  index: -1
+2420_02
+  rotate: false
+  xy: 1338, 320
+  size: 86, 143
+  orig: 86, 143
+  offset: 0, 0
+  index: -1
+2420_03
+  rotate: false
+  xy: 1338, 175
+  size: 86, 143
+  orig: 86, 143
+  offset: 0, 0
+  index: -1
+2420_04
+  rotate: true
+  xy: 1034, 178
+  size: 86, 143
+  orig: 86, 143
+  offset: 0, 0
+  index: -1
+2420_05
+  rotate: false
+  xy: 1179, 121
+  size: 86, 143
+  orig: 86, 143
+  offset: 0, 0
+  index: -1
+2420_06
+  rotate: false
+  xy: 1034, 33
+  size: 86, 143
+  orig: 86, 143
+  offset: 0, 0
+  index: -1
+2420_07
+  rotate: false
+  xy: 1267, 30
+  size: 86, 143
+  orig: 86, 143
+  offset: 0, 0
+  index: -1
+2420_08
+  rotate: true
+  xy: 1122, 33
+  size: 86, 143
+  orig: 86, 143
+  offset: 0, 0
+  index: -1
+bz_1
+  rotate: true
+  xy: 2, 306
+  size: 302, 342
+  orig: 302, 342
+  offset: 0, 0
+  index: -1
+bz_2
+  rotate: true
+  xy: 346, 306
+  size: 302, 342
+  orig: 302, 342
+  offset: 0, 0
+  index: -1
+bz_3
+  rotate: true
+  xy: 690, 306
+  size: 302, 342
+  orig: 302, 342
+  offset: 0, 0
+  index: -1
+bz_4
+  rotate: false
+  xy: 1034, 266
+  size: 302, 342
+  orig: 302, 342
+  offset: 0, 0
+  index: -1
+bz_5
+  rotate: true
+  xy: 2, 2
+  size: 302, 342
+  orig: 302, 342
+  offset: 0, 0
+  index: -1
+bz_6
+  rotate: true
+  xy: 346, 2
+  size: 302, 342
+  orig: 302, 342
+  offset: 0, 0
+  index: -1
+bz_7
+  rotate: true
+  xy: 690, 2
+  size: 302, 342
+  orig: 302, 342
+  offset: 0, 0
+  index: -1
+hedan
+  rotate: false
+  xy: 1355, 37
+  size: 65, 136
+  orig: 65, 136
+  offset: 0, 0
+  index: -1

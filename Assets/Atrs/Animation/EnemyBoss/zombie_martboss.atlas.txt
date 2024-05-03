@@ -1,0 +1,139 @@
+
+zombie_martboss.png
+size: 423,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/fx_zombie_shadow
+  rotate: false
+  xy: 174, 37
+  size: 144, 81
+  orig: 144, 81
+  offset: 0, 0
+  index: -1
+zombie_captainboss/back_weal
+  rotate: false
+  xy: 320, 64
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+zombie_captainboss/body
+  rotate: false
+  xy: 2, 106
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+zombie_martboss/body
+  rotate: false
+  xy: 2, 106
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+zombie_captainboss/cart
+  rotate: false
+  xy: 2, 429
+  size: 288, 106
+  orig: 288, 106
+  offset: 0, 0
+  index: -1
+zombie_captainboss/cart_head
+  rotate: true
+  xy: 374, 12
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+zombie_captainboss/front_arm
+  rotate: false
+  xy: 2, 2
+  size: 165, 102
+  orig: 165, 102
+  offset: 0, 0
+  index: -1
+zombie_martboss/front_arm
+  rotate: false
+  xy: 2, 2
+  size: 165, 102
+  orig: 165, 102
+  offset: 0, 0
+  index: -1
+zombie_captainboss/front_weal
+  rotate: false
+  xy: 290, 121
+  size: 103, 45
+  orig: 103, 45
+  offset: 0, 0
+  index: -1
+zombie_captainboss/fx_big_boom
+  rotate: true
+  xy: 174, 120
+  size: 156, 114
+  orig: 156, 114
+  offset: 0, 0
+  index: -1
+zombie_captainboss/head
+  rotate: false
+  xy: 290, 168
+  size: 111, 133
+  orig: 111, 133
+  offset: 0, 0
+  index: -1
+zombie_martboss/head
+  rotate: false
+  xy: 290, 168
+  size: 111, 133
+  orig: 111, 133
+  offset: 0, 0
+  index: -1
+zombie_captainboss/helmet
+  rotate: false
+  xy: 248, 303
+  size: 153, 80
+  orig: 153, 80
+  offset: 0, 0
+  index: -1
+zombie_captainboss/rear_arm
+  rotate: true
+  xy: 292, 385
+  size: 150, 115
+  orig: 150, 115
+  offset: 0, 0
+  index: -1
+zombie_martboss/rear_arm
+  rotate: true
+  xy: 292, 385
+  size: 150, 115
+  orig: 150, 115
+  offset: 0, 0
+  index: -1
+zombie_martboss/back_wheal
+  rotate: false
+  xy: 320, 10
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+zombie_martboss/front_weal
+  rotate: false
+  xy: 320, 10
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+zombie_martboss/cart
+  rotate: false
+  xy: 2, 278
+  size: 244, 149
+  orig: 244, 149
+  offset: 0, 0
+  index: -1
+zombie_martboss/cart_head
+  rotate: true
+  xy: 377, 70
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1

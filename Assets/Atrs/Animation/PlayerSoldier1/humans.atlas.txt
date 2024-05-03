@@ -1,0 +1,7279 @@
+
+humans.png
+size: 1635,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+army/body
+  rotate: true
+  xy: 52, 163
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+army/front_arm
+  rotate: true
+  xy: 1614, 701
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+army/front_foot
+  rotate: true
+  xy: 238, 168
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+army/front_hand
+  rotate: false
+  xy: 1477, 419
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+army/front_leg
+  rotate: false
+  xy: 1128, 72
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+army/front_shoulder
+  rotate: false
+  xy: 213, 801
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+army/front_thigh
+  rotate: false
+  xy: 1614, 725
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+army/head
+  rotate: false
+  xy: 98, 170
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+army/helmet
+  rotate: false
+  xy: 1527, 778
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+army/neck
+  rotate: false
+  xy: 419, 934
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+army/rear_arm
+  rotate: false
+  xy: 1178, 94
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+army/rear_foot
+  rotate: true
+  xy: 1425, 555
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+army/rear_hand
+  rotate: true
+  xy: 600, 225
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+army/rear_leg
+  rotate: true
+  xy: 1160, 689
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+army/rear_shoulder
+  rotate: true
+  xy: 543, 276
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+army/rear_thigh
+  rotate: false
+  xy: 736, 775
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+assult/body
+  rotate: false
+  xy: 1027, 421
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+assult/front_arm
+  rotate: true
+  xy: 1556, 930
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+assult/front_foot
+  rotate: false
+  xy: 1581, 848
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+assult/front_hand
+  rotate: true
+  xy: 703, 168
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+assult/front_leg
+  rotate: false
+  xy: 991, 231
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+assult/front_shoulder
+  rotate: false
+  xy: 894, 247
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+assult/front_thigh
+  rotate: true
+  xy: 802, 156
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+assult/head
+  rotate: true
+  xy: 1066, 685
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+assult/helmet
+  rotate: false
+  xy: 1261, 710
+  size: 86, 71
+  orig: 86, 71
+  offset: 0, 0
+  index: -1
+assult_level3/helmet
+  rotate: false
+  xy: 1261, 710
+  size: 86, 71
+  orig: 86, 71
+  offset: 0, 0
+  index: -1
+assult/neck
+  rotate: true
+  xy: 1615, 836
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+assult/rear_arm
+  rotate: true
+  xy: 600, 196
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+assult/rear_foot
+  rotate: false
+  xy: 1457, 961
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+assult/rear_hand
+  rotate: false
+  xy: 1054, 192
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+assult/rear_leg
+  rotate: false
+  xy: 991, 204
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+assult/rear_shoulder
+  rotate: true
+  xy: 665, 168
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+assult/rear_thigh
+  rotate: false
+  xy: 600, 252
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+assult_level1/body
+  rotate: false
+  xy: 327, 222
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+assult_level1/front_arm
+  rotate: false
+  xy: 1554, 409
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+assult_level2/front_arm
+  rotate: false
+  xy: 1554, 409
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+assult_level1/front_foot
+  rotate: true
+  xy: 1622, 381
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+assult_level2/front_foot
+  rotate: true
+  xy: 1622, 381
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+assult_level3/front_foot
+  rotate: true
+  xy: 1622, 381
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+assult_level1/front_hand
+  rotate: true
+  xy: 1276, 417
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+assult_level1/front_leg
+  rotate: true
+  xy: 574, 152
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+assult_level2/front_leg
+  rotate: true
+  xy: 574, 152
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+assult_level3/front_leg
+  rotate: true
+  xy: 574, 152
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+assult_level1/front_shoulder
+  rotate: false
+  xy: 772, 164
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+assult_level1/front_thigh
+  rotate: false
+  xy: 1273, 279
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+assult_level2/front_thigh
+  rotate: false
+  xy: 1273, 279
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+assult_level1/head
+  rotate: false
+  xy: 379, 480
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+assult_level1/helmet
+  rotate: false
+  xy: 938, 754
+  size: 80, 73
+  orig: 80, 73
+  offset: 0, 0
+  index: -1
+assult_level1/neck
+  rotate: true
+  xy: 874, 224
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+assult_level2/neck
+  rotate: true
+  xy: 874, 224
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+assult_level3/neck
+  rotate: true
+  xy: 874, 224
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+assult_level1/rear_arm
+  rotate: false
+  xy: 1479, 333
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+assult_level2/rear_arm
+  rotate: false
+  xy: 1479, 333
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+assult_level3/rear_arm
+  rotate: false
+  xy: 1479, 333
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+assult_level1/rear_foot
+  rotate: true
+  xy: 736, 757
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+assult_level2/rear_foot
+  rotate: true
+  xy: 736, 757
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+assult_level3/rear_foot
+  rotate: true
+  xy: 736, 757
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+assult_level1/rear_hand
+  rotate: false
+  xy: 1478, 267
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+assult_level1/rear_leg
+  rotate: false
+  xy: 1371, 106
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+assult_level2/rear_leg
+  rotate: false
+  xy: 1371, 106
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+assult_level3/rear_leg
+  rotate: false
+  xy: 1371, 106
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+assult_level1/rear_shoulder
+  rotate: true
+  xy: 833, 154
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+assult_level2/rear_shoulder
+  rotate: true
+  xy: 833, 154
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+assult_level1/rear_thigh
+  rotate: false
+  xy: 1061, 251
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+assult_level2/rear_thigh
+  rotate: false
+  xy: 1061, 251
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+assult_level2/body
+  rotate: true
+  xy: 106, 24
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+assult_level2/front_hand
+  rotate: true
+  xy: 1269, 248
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+assult_level2/front_shoulder
+  rotate: true
+  xy: 1123, 176
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+assult_level2/head
+  rotate: false
+  xy: 452, 472
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+assult_level2/helmet
+  rotate: false
+  xy: 1438, 706
+  size: 86, 72
+  orig: 86, 72
+  offset: 0, 0
+  index: -1
+assult_level2/rear_hand
+  rotate: true
+  xy: 1450, 344
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+assult_level3/rear_hand
+  rotate: true
+  xy: 1450, 344
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+assult_level3/body
+  rotate: true
+  xy: 1037, 340
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+assult_level3/front_arm
+  rotate: false
+  xy: 1554, 385
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+assult_level3/front_hand
+  rotate: true
+  xy: 1218, 166
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+assult_level3/front_shoulder
+  rotate: true
+  xy: 1181, 167
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+assult_level3/front_thigh
+  rotate: false
+  xy: 1479, 355
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+assult_level3/head
+  rotate: false
+  xy: 525, 464
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+assult_level3/rear_shoulder
+  rotate: true
+  xy: 903, 152
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+assult_level3/rear_thigh
+  rotate: false
+  xy: 1061, 222
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+chemical/body
+  rotate: true
+  xy: 188, 477
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+chemical/front_arm
+  rotate: true
+  xy: 1431, 212
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+chemical/front_foot
+  rotate: false
+  xy: 421, 38
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+chemical/front_hand
+  rotate: false
+  xy: 567, 204
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+chemical/front_leg
+  rotate: true
+  xy: 1478, 213
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+chemical/front_shoulder
+  rotate: false
+  xy: 355, 36
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+chemical/front_thigh
+  rotate: true
+  xy: 1576, 293
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+chemical/head
+  rotate: false
+  xy: 455, 615
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+fighter/head
+  rotate: false
+  xy: 455, 615
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+medic/head
+  rotate: false
+  xy: 455, 615
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+recon/head
+  rotate: false
+  xy: 455, 615
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+chemical/helmet
+  rotate: true
+  xy: 369, 841
+  size: 91, 79
+  orig: 91, 79
+  offset: 0, 0
+  index: -1
+chemical/neck
+  rotate: false
+  xy: 306, 627
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+chemical/rear_arm
+  rotate: false
+  xy: 1445, 158
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+chemical/rear_foot
+  rotate: false
+  xy: 1160, 164
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+chemical/rear_hand
+  rotate: true
+  xy: 938, 183
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+chemical/rear_leg
+  rotate: true
+  xy: 535, 55
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+chemical/rear_shoulder
+  rotate: false
+  xy: 388, 38
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+chemical/rear_thigh
+  rotate: true
+  xy: 1576, 266
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+defender/body
+  rotate: false
+  xy: 1027, 469
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+defender/front_arm
+  rotate: false
+  xy: 1457, 185
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+defender/front_foot
+  rotate: false
+  xy: 821, 31
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+defender/front_hand
+  rotate: true
+  xy: 318, 2
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+defender/front_leg
+  rotate: false
+  xy: 719, 139
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+defender/front_shoulder
+  rotate: false
+  xy: 216, 339
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+defender/front_thigh
+  rotate: true
+  xy: 1507, 243
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+defender/head
+  rotate: true
+  xy: 779, 598
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+defender/helmet
+  rotate: false
+  xy: 1261, 783
+  size: 86, 75
+  orig: 86, 75
+  offset: 0, 0
+  index: -1
+defender/neck
+  rotate: false
+  xy: 334, 627
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+defender/rear_arm
+  rotate: false
+  xy: 974, 131
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+defender/rear_foot
+  rotate: false
+  xy: 970, 2
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+defender/rear_hand
+  rotate: false
+  xy: 940, 151
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+defender/rear_leg
+  rotate: true
+  xy: 1029, 131
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+defender/rear_shoulder
+  rotate: false
+  xy: 322, 35
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+defender/rear_thigh
+  rotate: true
+  xy: 1292, 187
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+defenser_level1/body
+  rotate: false
+  xy: 365, 126
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+defenser_level1/front_arm
+  rotate: true
+  xy: 543, 143
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+defenser_level2/front_arm
+  rotate: true
+  xy: 543, 143
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+defenser_level3/front_arm
+  rotate: true
+  xy: 543, 143
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+defenser_level1/front_foot
+  rotate: false
+  xy: 308, 190
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+defenser_level2/front_foot
+  rotate: false
+  xy: 308, 190
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+defenser_level3/front_foot
+  rotate: false
+  xy: 308, 190
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+defenser_level1/front_hand
+  rotate: true
+  xy: 1478, 237
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+defenser_level1/front_leg
+  rotate: true
+  xy: 1370, 57
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+defenser_level1/front_shoulder
+  rotate: true
+  xy: 472, 205
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+defenser_level1/front_thigh
+  rotate: false
+  xy: 205, 664
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+defenser_level2/front_thigh
+  rotate: false
+  xy: 205, 664
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+defenser_level3/front_thigh
+  rotate: false
+  xy: 205, 664
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+defenser_level1/head
+  rotate: false
+  xy: 175, 168
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+defenser_level2/head
+  rotate: false
+  xy: 175, 168
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+defenser_level1/helmet
+  rotate: false
+  xy: 1262, 860
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+defenser_level1/neck
+  rotate: true
+  xy: 1615, 810
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+defenser_level2/neck
+  rotate: true
+  xy: 1615, 810
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+defenser_level3/neck
+  rotate: true
+  xy: 1615, 810
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+defenser_level1/rear_arm
+  rotate: true
+  xy: 205, 637
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+defenser_level1/rear_foot
+  rotate: true
+  xy: 1541, 406
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+defenser_level2/rear_foot
+  rotate: true
+  xy: 1541, 406
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+defenser_level3/rear_foot
+  rotate: true
+  xy: 1541, 406
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+defenser_level1/rear_hand
+  rotate: true
+  xy: 545, 171
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+defenser_level2/rear_hand
+  rotate: true
+  xy: 545, 171
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+defenser_level3/rear_hand
+  rotate: true
+  xy: 545, 171
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+defenser_level1/rear_leg
+  rotate: false
+  xy: 970, 221
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+defenser_level2/rear_leg
+  rotate: false
+  xy: 970, 221
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+defenser_level3/rear_leg
+  rotate: false
+  xy: 970, 221
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+defenser_level1/rear_shoulder
+  rotate: true
+  xy: 471, 176
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+defenser_level2/rear_shoulder
+  rotate: true
+  xy: 471, 176
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+defenser_level3/rear_shoulder
+  rotate: true
+  xy: 471, 176
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+defenser_level1/rear_thigh
+  rotate: false
+  xy: 1046, 102
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+defenser_level2/rear_thigh
+  rotate: false
+  xy: 1046, 102
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+defenser_level3/rear_thigh
+  rotate: false
+  xy: 1046, 102
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+defenser_level2/body
+  rotate: false
+  xy: 370, 78
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+defenser_level2/front_hand
+  rotate: true
+  xy: 743, 139
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+defenser_level3/front_hand
+  rotate: true
+  xy: 743, 139
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+defenser_level2/front_leg
+  rotate: true
+  xy: 1447, 89
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+defenser_level2/front_shoulder
+  rotate: true
+  xy: 60, 309
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+defenser_level2/helmet
+  rotate: true
+  xy: 940, 829
+  size: 91, 74
+  orig: 91, 74
+  offset: 0, 0
+  index: -1
+defenser_level2/rear_arm
+  rotate: false
+  xy: 449, 34
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+defenser_level3/rear_arm
+  rotate: false
+  xy: 449, 34
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+defenser_level3/body
+  rotate: false
+  xy: 1014, 240
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+defenser_level3/front_leg
+  rotate: true
+  xy: 1493, 108
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+defenser_level3/front_shoulder
+  rotate: true
+  xy: 836, 219
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+defenser_level3/head
+  rotate: true
+  xy: 890, 458
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+defenser_level3/helmet
+  rotate: true
+  xy: 1020, 765
+  size: 92, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+effect/fx_handgun_fire
+  rotate: false
+  xy: 735, 392
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+effect/fx_punch
+  rotate: true
+  xy: 1581, 965
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+effect/fx_shadow
+  rotate: true
+  xy: 2, 649
+  size: 160, 99
+  orig: 160, 99
+  offset: 0, 0
+  index: -1
+effect/fx_stick_swing
+  rotate: true
+  xy: 105, 835
+  size: 106, 132
+  orig: 106, 132
+  offset: 0, 0
+  index: -1
+effect/fx_stick_swing_2
+  rotate: false
+  xy: 275, 934
+  size: 142, 96
+  orig: 142, 96
+  offset: 0, 0
+  index: -1
+electric/body
+  rotate: true
+  xy: 805, 287
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+electric/front_arm
+  rotate: false
+  xy: 772, 137
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+electric/front_foot
+  rotate: false
+  xy: 1281, 26
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+electric/front_hand
+  rotate: false
+  xy: 870, 152
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+electric/front_leg
+  rotate: true
+  xy: 957, 74
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+electric/front_shoulder
+  rotate: false
+  xy: 925, 247
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+electric/front_thigh
+  rotate: true
+  xy: 1325, 187
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+electric/head
+  rotate: false
+  xy: 838, 676
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+electric/helmet
+  rotate: true
+  xy: 99, 74
+  size: 94, 71
+  orig: 94, 71
+  offset: 0, 0
+  index: -1
+electric/neck
+  rotate: false
+  xy: 476, 34
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+electric/rear_arm
+  rotate: false
+  xy: 772, 110
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+electric/rear_foot
+  rotate: false
+  xy: 1445, 46
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+electric/rear_hand
+  rotate: false
+  xy: 1391, 418
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+electric/rear_leg
+  rotate: true
+  xy: 564, 30
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+electric/rear_shoulder
+  rotate: false
+  xy: 958, 247
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+electric/rear_thigh
+  rotate: true
+  xy: 1358, 187
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+electric_level1/body
+  rotate: false
+  xy: 498, 283
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+electric_level2/body
+  rotate: false
+  xy: 498, 283
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+electric_level1/front_arm
+  rotate: true
+  xy: 585, 2
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+electric_level1/front_foot
+  rotate: true
+  xy: 1541, 388
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+electric_level1/front_hand
+  rotate: true
+  xy: 1229, 197
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+electric_level1/front_leg
+  rotate: false
+  xy: 1160, 180
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+electric_level1/front_shoulder
+  rotate: true
+  xy: 509, 201
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+electric_level1/front_thigh
+  rotate: true
+  xy: 446, 90
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+electric_level1/head
+  rotate: true
+  xy: 959, 456
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+electric_level1/helmet
+  rotate: true
+  xy: 775, 321
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+electric_level1/neck
+  rotate: true
+  xy: 1458, 217
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+smg_level1/neck
+  rotate: true
+  xy: 1458, 217
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+smg_level2/neck
+  rotate: true
+  xy: 1458, 217
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+smg_level3/neck
+  rotate: true
+  xy: 1458, 217
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+electric_level1/rear_arm
+  rotate: true
+  xy: 609, 2
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+electric_level1/rear_foot
+  rotate: true
+  xy: 620, 105
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+electric_level1/rear_hand
+  rotate: true
+  xy: 1606, 197
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+electric_level1/rear_leg
+  rotate: false
+  xy: 970, 195
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+electric_level1/rear_shoulder
+  rotate: true
+  xy: 508, 171
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+electric_level1/rear_thigh
+  rotate: false
+  xy: 658, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+electric_level2/front_arm
+  rotate: false
+  xy: 1540, 102
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+electric_level3/front_arm
+  rotate: false
+  xy: 1540, 102
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+electric_level2/front_foot
+  rotate: true
+  xy: 990, 950
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+electric_level2/front_hand
+  rotate: false
+  xy: 564, 54
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+electric_level2/front_leg
+  rotate: true
+  xy: 1222, 578
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+electric_level2/front_shoulder
+  rotate: true
+  xy: 1540, 239
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+electric_level2/front_thigh
+  rotate: false
+  xy: 633, 95
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+electric_level3/front_thigh
+  rotate: false
+  xy: 633, 95
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+electric_level2/head
+  rotate: false
+  xy: 644, 326
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+electric_level2/helmet
+  rotate: true
+  xy: 1108, 859
+  size: 80, 73
+  orig: 80, 73
+  offset: 0, 0
+  index: -1
+electric_level2/neck
+  rotate: true
+  xy: 945, 43
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+electric_level2/rear_arm
+  rotate: false
+  xy: 1493, 86
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+electric_level3/rear_arm
+  rotate: false
+  xy: 1493, 86
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+electric_level2/rear_foot
+  rotate: false
+  xy: 1037, 754
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+electric_level2/rear_hand
+  rotate: false
+  xy: 986, 73
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+electric_level3/rear_hand
+  rotate: false
+  xy: 986, 73
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+electric_level2/rear_leg
+  rotate: true
+  xy: 990, 922
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+electric_level2/rear_shoulder
+  rotate: true
+  xy: 1292, 214
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+electric_level3/rear_shoulder
+  rotate: true
+  xy: 1292, 214
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+electric_level2/rear_thigh
+  rotate: true
+  xy: 1342, 42
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+electric_level3/rear_thigh
+  rotate: true
+  xy: 1342, 42
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+electric_level3/body
+  rotate: true
+  xy: 520, 231
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+electric_level3/front_foot
+  rotate: false
+  xy: 1011, 423
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+electric_level3/front_hand
+  rotate: false
+  xy: 593, 30
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+electric_level3/front_leg
+  rotate: false
+  xy: 1521, 128
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+electric_level3/front_shoulder
+  rotate: true
+  xy: 1327, 214
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+electric_level3/head
+  rotate: false
+  xy: 710, 326
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+electric_level3/helmet
+  rotate: false
+  xy: 756, 676
+  size: 80, 73
+  orig: 80, 73
+  offset: 0, 0
+  index: -1
+electric_level3/neck
+  rotate: false
+  xy: 1422, 44
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+electric_level3/rear_foot
+  rotate: true
+  xy: 842, 31
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+electric_level3/rear_leg
+  rotate: true
+  xy: 994, 2
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+fighter/body
+  rotate: true
+  xy: 1085, 217
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+fighter/front_arm
+  rotate: true
+  xy: 1473, 86
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+fighter/front_foot
+  rotate: false
+  xy: 1063, 546
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+fighter/front_hand
+  rotate: true
+  xy: 776, 83
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+fighter/front_leg
+  rotate: false
+  xy: 1138, 23
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+fighter/front_shoulder
+  rotate: false
+  xy: 1477, 385
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+fighter/front_thigh
+  rotate: false
+  xy: 1614, 751
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+fighter/helmet
+  rotate: true
+  xy: 172, 74
+  size: 92, 73
+  orig: 92, 73
+  offset: 0, 0
+  index: -1
+fighter/neck
+  rotate: true
+  xy: 1011, 434
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+fighter/rear_arm
+  rotate: false
+  xy: 1543, 56
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+fighter/rear_foot
+  rotate: false
+  xy: 1600, 852
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+fighter/rear_hand
+  rotate: true
+  xy: 559, 2
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+fighter/rear_leg
+  rotate: false
+  xy: 1174, 23
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+fighter/rear_shoulder
+  rotate: false
+  xy: 1477, 445
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+fighter/rear_thigh
+  rotate: false
+  xy: 1057, 393
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+fighter_level1/body
+  rotate: false
+  xy: 1014, 288
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+fighter_level1/front_arm
+  rotate: true
+  xy: 1355, 132
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+fighter_level3/front_arm
+  rotate: true
+  xy: 1355, 132
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+fighter_level1/front_foot
+  rotate: false
+  xy: 946, 2
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+fighter_level1/front_hand
+  rotate: true
+  xy: 1606, 166
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+fighter_level1/front_leg
+  rotate: false
+  xy: 546, 205
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+fighter_level1/front_shoulder
+  rotate: true
+  xy: 1425, 412
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+fighter_level1/front_thigh
+  rotate: false
+  xy: 600, 166
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+fighter_level2/front_thigh
+  rotate: false
+  xy: 600, 166
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+fighter_level1/head
+  rotate: false
+  xy: 308, 413
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+fighter_level2/head
+  rotate: false
+  xy: 308, 413
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+fighter_level3/head
+  rotate: false
+  xy: 308, 413
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+fighter_level1/helmet
+  rotate: true
+  xy: 854, 597
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+fighter_level1/neck
+  rotate: true
+  xy: 1487, 188
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+fighter_level1/rear_arm
+  rotate: true
+  xy: 1370, 79
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+fighter_level2/rear_arm
+  rotate: true
+  xy: 1370, 79
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+fighter_level3/rear_arm
+  rotate: true
+  xy: 1370, 79
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+fighter_level1/rear_foot
+  rotate: true
+  xy: 1462, 424
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+fighter_level1/rear_hand
+  rotate: true
+  xy: 1606, 135
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+fighter_level1/rear_leg
+  rotate: true
+  xy: 1232, 228
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+fighter_level1/rear_shoulder
+  rotate: true
+  xy: 1504, 394
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+fighter_level1/rear_thigh
+  rotate: false
+  xy: 682, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+fighter_level2/rear_thigh
+  rotate: false
+  xy: 682, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+fighter_level3/rear_thigh
+  rotate: false
+  xy: 682, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+fighter_level2/body
+  rotate: false
+  xy: 1133, 206
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+fighter_level2/front_arm
+  rotate: false
+  xy: 1437, 134
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+fighter_level2/front_foot
+  rotate: true
+  xy: 1101, 112
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+fighter_level3/front_foot
+  rotate: true
+  xy: 1101, 112
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+fighter_level2/front_hand
+  rotate: false
+  xy: 504, 84
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+fighter_level2/front_leg
+  rotate: false
+  xy: 1033, 181
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+fighter_level3/front_leg
+  rotate: false
+  xy: 1033, 181
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+fighter_level2/front_shoulder
+  rotate: false
+  xy: 974, 158
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+fighter_level3/front_shoulder
+  rotate: false
+  xy: 974, 158
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+fighter_level2/helmet
+  rotate: false
+  xy: 1435, 631
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+fighter_level2/neck
+  rotate: false
+  xy: 600, 146
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+fighter_level2/rear_foot
+  rotate: true
+  xy: 1101, 94
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+fighter_level3/rear_foot
+  rotate: true
+  xy: 1101, 94
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+fighter_level2/rear_hand
+  rotate: false
+  xy: 504, 55
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+fighter_level2/rear_leg
+  rotate: false
+  xy: 1033, 155
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+fighter_level2/rear_shoulder
+  rotate: true
+  xy: 1239, 418
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+fighter_level3/rear_shoulder
+  rotate: true
+  xy: 1239, 418
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+fighter_level3/body
+  rotate: true
+  xy: 1085, 359
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+fighter_level3/front_hand
+  rotate: false
+  xy: 657, 139
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+fighter_level3/front_thigh
+  rotate: false
+  xy: 1004, 131
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+fighter_level3/helmet
+  rotate: false
+  xy: 1352, 858
+  size: 89, 72
+  orig: 89, 72
+  offset: 0, 0
+  index: -1
+fighter_level3/neck
+  rotate: false
+  xy: 1314, 23
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+fighter_level3/rear_hand
+  rotate: false
+  xy: 688, 139
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+fighter_level3/rear_leg
+  rotate: false
+  xy: 1519, 102
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+fire-level1/body
+  rotate: false
+  xy: 1504, 424
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+fire-level1/front_arm
+  rotate: true
+  xy: 1609, 258
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+fire-level1/front_foot
+  rotate: true
+  xy: 1063, 576
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+fire-level1/front_hand
+  rotate: false
+  xy: 1417, 344
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+fire-level1/front_leg
+  rotate: true
+  xy: 1231, 114
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+fire-level1/front_shoulder
+  rotate: false
+  xy: 184, 339
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+fire-level1/front_thigh
+  rotate: true
+  xy: 1475, 158
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+fire-level1/head
+  rotate: true
+  xy: 929, 597
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+fire-level1/helmet
+  rotate: false
+  xy: 848, 755
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+fire-level1/neck
+  rotate: false
+  xy: 1369, 35
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+fire-level1/rear_arm
+  rotate: true
+  xy: 1609, 228
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+fire-level1/rear_foot
+  rotate: true
+  xy: 1063, 556
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+fire-level1/rear_hand
+  rotate: false
+  xy: 473, 117
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+fire-level1/rear_leg
+  rotate: true
+  xy: 1259, 113
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+fire-level1/rear_shoulder
+  rotate: true
+  xy: 733, 169
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+fire-level1/rear_thigh
+  rotate: false
+  xy: 1609, 350
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+fire_level2/body
+  rotate: false
+  xy: 1581, 862
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+fire_level2/front_arm
+  rotate: true
+  xy: 1267, 346
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+fire_level2/front_foot
+  rotate: true
+  xy: 1474, 110
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+fire_level2/front_hand
+  rotate: true
+  xy: 764, 201
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+fire_level2/front_leg
+  rotate: false
+  xy: 446, 115
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+fire_level2/front_shoulder
+  rotate: false
+  xy: 769, 278
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+fire_level2/front_thigh
+  rotate: false
+  xy: 1236, 382
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+fire_level2/head
+  rotate: false
+  xy: 367, 765
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+fire_level2/helmet
+  rotate: false
+  xy: 1349, 782
+  size: 87, 74
+  orig: 87, 74
+  offset: 0, 0
+  index: -1
+fire_level2/neck
+  rotate: true
+  xy: 1609, 319
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+fire_level3/neck
+  rotate: true
+  xy: 1609, 319
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+fire_level2/rear_arm
+  rotate: true
+  xy: 1297, 346
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+fire_level2/rear_foot
+  rotate: false
+  xy: 1339, 23
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+fire_level2/rear_hand
+  rotate: false
+  xy: 833, 184
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+fire_level2/rear_leg
+  rotate: false
+  xy: 449, 58
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+fire_level2/rear_shoulder
+  rotate: true
+  xy: 400, 2
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+fire_level3/rear_shoulder
+  rotate: true
+  xy: 400, 2
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+fire_level2/rear_thigh
+  rotate: false
+  xy: 1386, 309
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+fire_level3/body
+  rotate: false
+  xy: 306, 649
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+fire_level3/front_arm
+  rotate: true
+  xy: 441, 147
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+fire_level3/front_foot
+  rotate: false
+  xy: 1018, 23
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+fire_level3/front_hand
+  rotate: false
+  xy: 799, 220
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+fire_level3/front_leg
+  rotate: false
+  xy: 535, 111
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+fire_level3/front_shoulder
+  rotate: true
+  xy: 851, 249
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+fire_level3/front_thigh
+  rotate: false
+  xy: 1236, 346
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+fire_level3/head
+  rotate: false
+  xy: 367, 689
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+fire_level3/helmet
+  rotate: true
+  xy: 1184, 771
+  size: 87, 75
+  orig: 87, 75
+  offset: 0, 0
+  index: -1
+fire_level3/rear_arm
+  rotate: false
+  xy: 1575, 236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+fire_level3/rear_foot
+  rotate: false
+  xy: 1042, 23
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+fire_level3/rear_hand
+  rotate: false
+  xy: 903, 182
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+fire_level3/rear_leg
+  rotate: false
+  xy: 535, 79
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+fire_level3/rear_thigh
+  rotate: false
+  xy: 1416, 309
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+marine/body
+  rotate: false
+  xy: 805, 338
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+marine/front_arm
+  rotate: true
+  xy: 1058, 133
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+marine/front_foot
+  rotate: true
+  xy: 1460, 2
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+marine/front_hand
+  rotate: true
+  xy: 1577, 320
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+marine/front_leg
+  rotate: false
+  xy: 706, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+marine/front_shoulder
+  rotate: false
+  xy: 567, 236
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+marine/front_thigh
+  rotate: true
+  xy: 1391, 186
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+marine/head
+  rotate: true
+  xy: 916, 676
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+marine/helmet
+  rotate: true
+  xy: 1184, 689
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+marine/neck
+  rotate: false
+  xy: 1343, 110
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+marine/rear_arm
+  rotate: true
+  xy: 593, 57
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+marine/rear_foot
+  rotate: false
+  xy: 1566, 14
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+marine/rear_hand
+  rotate: true
+  xy: 1446, 310
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+marine/rear_leg
+  rotate: false
+  xy: 730, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+marine/rear_shoulder
+  rotate: true
+  xy: 625, 246
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+marine/rear_thigh
+  rotate: true
+  xy: 1424, 185
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+marine_level1/body
+  rotate: false
+  xy: 1181, 197
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+marine_level1/front_arm
+  rotate: false
+  xy: 1465, 134
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+marine_level2/front_arm
+  rotate: false
+  xy: 1465, 134
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+marine_level1/front_foot
+  rotate: true
+  xy: 1063, 528
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+marine_level2/front_foot
+  rotate: true
+  xy: 1063, 528
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+marine_level3/front_foot
+  rotate: true
+  xy: 1063, 528
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+marine_level1/front_hand
+  rotate: false
+  xy: 802, 127
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+marine_level1/front_leg
+  rotate: true
+  xy: 1519, 81
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+marine_level1/front_shoulder
+  rotate: false
+  xy: 1236, 309
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+marine_level1/front_thigh
+  rotate: false
+  xy: 1045, 72
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+marine_level2/front_thigh
+  rotate: false
+  xy: 1045, 72
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+marine_level1/head
+  rotate: true
+  xy: 805, 391
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+marine_level1/helmet
+  rotate: true
+  xy: 700, 676
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1
+marine_level1/neck
+  rotate: false
+  xy: 1466, 44
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+marine_level2/neck
+  rotate: false
+  xy: 1466, 44
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+marine_level3/neck
+  rotate: false
+  xy: 1466, 44
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+marine_level1/rear_arm
+  rotate: false
+  xy: 1287, 112
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+marine_level2/rear_arm
+  rotate: false
+  xy: 1287, 112
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+marine_level1/rear_foot
+  rotate: true
+  xy: 1244, 28
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+marine_level2/rear_foot
+  rotate: true
+  xy: 1244, 28
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+marine_level3/rear_foot
+  rotate: true
+  xy: 1244, 28
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+marine_level1/rear_hand
+  rotate: false
+  xy: 833, 125
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+marine_level2/rear_hand
+  rotate: false
+  xy: 833, 125
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+marine_level1/rear_leg
+  rotate: false
+  xy: 1545, 76
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+marine_level1/rear_shoulder
+  rotate: true
+  xy: 1305, 419
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+marine_level1/rear_thigh
+  rotate: false
+  xy: 754, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+marine_level2/rear_thigh
+  rotate: false
+  xy: 754, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+marine_level2/body
+  rotate: true
+  xy: 1188, 389
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+marine_level2/front_hand
+  rotate: false
+  xy: 864, 123
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+marine_level2/front_leg
+  rotate: true
+  xy: 1396, 23
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+marine_level3/front_leg
+  rotate: true
+  xy: 1396, 23
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+marine_level2/front_shoulder
+  rotate: true
+  xy: 1342, 419
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+marine_level2/head
+  rotate: false
+  xy: 369, 343
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+marine_level3/head
+  rotate: false
+  xy: 369, 343
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+marine_level2/helmet
+  rotate: true
+  xy: 1001, 596
+  size: 78, 75
+  orig: 78, 75
+  offset: 0, 0
+  index: -1
+marine_level2/rear_leg
+  rotate: true
+  xy: 1018, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+marine_level2/rear_shoulder
+  rotate: false
+  xy: 1267, 380
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+marine_level3/body
+  rotate: false
+  xy: 1186, 341
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+marine_level3/front_arm
+  rotate: false
+  xy: 1315, 112
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+marine_level3/front_hand
+  rotate: false
+  xy: 895, 123
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+marine_level3/front_shoulder
+  rotate: false
+  xy: 1266, 309
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+marine_level3/front_thigh
+  rotate: true
+  xy: 504, 30
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+marine_level3/helmet
+  rotate: false
+  xy: 1222, 501
+  size: 78, 75
+  orig: 78, 75
+  offset: 0, 0
+  index: -1
+marine_level3/rear_arm
+  rotate: false
+  xy: 1202, 94
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+marine_level3/rear_hand
+  rotate: false
+  xy: 926, 122
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+marine_level3/rear_leg
+  rotate: true
+  xy: 1044, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+marine_level3/rear_shoulder
+  rotate: true
+  xy: 1236, 279
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+marine_level3/rear_thigh
+  rotate: false
+  xy: 778, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+medic/body
+  rotate: false
+  xy: 1239, 448
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+medic/front_arm
+  rotate: false
+  xy: 1070, 74
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+medic/front_foot
+  rotate: true
+  xy: 1590, 78
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+medic/front_hand
+  rotate: false
+  xy: 1507, 270
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+medic/front_leg
+  rotate: true
+  xy: 800, 49
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+medic/front_shoulder
+  rotate: true
+  xy: 1014, 207
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+medic/front_thigh
+  rotate: true
+  xy: 1247, 161
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+medic/helmet
+  rotate: false
+  xy: 533, 607
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+medic/neck
+  rotate: false
+  xy: 1230, 92
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+medic/rear_arm
+  rotate: false
+  xy: 656, 83
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+medic/rear_foot
+  rotate: true
+  xy: 1606, 90
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+medic/rear_hand
+  rotate: false
+  xy: 1507, 211
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+medic/rear_leg
+  rotate: true
+  xy: 829, 47
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+medic/rear_shoulder
+  rotate: true
+  xy: 1582, 385
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+medic/rear_thigh
+  rotate: true
+  xy: 1280, 160
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+medic_level1/body
+  rotate: false
+  xy: 1137, 706
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+medic_level1/front_arm
+  rotate: false
+  xy: 1609, 288
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+medic_level2/front_arm
+  rotate: false
+  xy: 1609, 288
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+medic_level3/front_arm
+  rotate: false
+  xy: 1609, 288
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+medic_level1/front_foot
+  rotate: false
+  xy: 86, 637
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+medic_level2/front_foot
+  rotate: false
+  xy: 86, 637
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+medic_level3/front_foot
+  rotate: false
+  xy: 86, 637
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+medic_level1/front_hand
+  rotate: true
+  xy: 476, 56
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+medic_level2/front_hand
+  rotate: true
+  xy: 476, 56
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+medic_level3/front_hand
+  rotate: true
+  xy: 476, 56
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+medic_level1/front_leg
+  rotate: true
+  xy: 1543, 36
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+medic_level2/front_leg
+  rotate: true
+  xy: 1543, 36
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+medic_level3/front_leg
+  rotate: true
+  xy: 1543, 36
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+medic_level1/front_shoulder
+  rotate: true
+  xy: 1541, 325
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+medic_level2/front_shoulder
+  rotate: true
+  xy: 1541, 325
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+medic_level3/front_shoulder
+  rotate: true
+  xy: 1541, 325
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+medic_level1/front_thigh
+  rotate: false
+  xy: 991, 258
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+medic_level2/front_thigh
+  rotate: false
+  xy: 991, 258
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+medic_level3/front_thigh
+  rotate: false
+  xy: 991, 258
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+medic_level1/head
+  rotate: false
+  xy: 943, 391
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+medic_level2/head
+  rotate: false
+  xy: 943, 391
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+medic_level3/head
+  rotate: false
+  xy: 943, 391
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+medic_level1/helmet
+  rotate: false
+  xy: 248, 2
+  size: 68, 31
+  orig: 68, 31
+  offset: 0, 0
+  index: -1
+medic_level1/neck
+  rotate: false
+  xy: 413, 126
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+medic_level2/neck
+  rotate: false
+  xy: 413, 126
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+medic_level3/neck
+  rotate: false
+  xy: 413, 126
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+medic_level1/rear_arm
+  rotate: false
+  xy: 1393, 111
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+medic_level2/rear_arm
+  rotate: false
+  xy: 1393, 111
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+medic_level3/rear_arm
+  rotate: false
+  xy: 1393, 111
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+medic_level1/rear_foot
+  rotate: false
+  xy: 504, 396
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+medic_level2/rear_foot
+  rotate: false
+  xy: 504, 396
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+medic_level3/rear_foot
+  rotate: false
+  xy: 504, 396
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+medic_level1/rear_hand
+  rotate: false
+  xy: 591, 117
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+medic_level2/rear_hand
+  rotate: false
+  xy: 591, 117
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+medic_level3/rear_hand
+  rotate: false
+  xy: 591, 117
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+medic_level1/rear_leg
+  rotate: true
+  xy: 1422, 23
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+medic_level2/rear_leg
+  rotate: true
+  xy: 1422, 23
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+medic_level3/rear_leg
+  rotate: true
+  xy: 1422, 23
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+medic_level1/rear_shoulder
+  rotate: false
+  xy: 1357, 309
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+medic_level2/rear_shoulder
+  rotate: false
+  xy: 1357, 309
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+medic_level3/rear_shoulder
+  rotate: false
+  xy: 1357, 309
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+medic_level1/rear_thigh
+  rotate: true
+  xy: 858, 43
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+medic_level2/rear_thigh
+  rotate: true
+  xy: 858, 43
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+medic_level3/rear_thigh
+  rotate: true
+  xy: 858, 43
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+medic_level2/body
+  rotate: true
+  xy: 1078, 407
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+medic_level2/helmet
+  rotate: true
+  xy: 1604, 631
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+medic_level3/body
+  rotate: false
+  xy: 253, 484
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+medic_level3/helmet
+  rotate: true
+  xy: 327, 270
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+ninja/body
+  rotate: false
+  xy: 858, 338
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+ninja/front_arm
+  rotate: false
+  xy: 1420, 111
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+ninja/front_foot
+  rotate: true
+  xy: 1246, 580
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+ninja/front_hand
+  rotate: true
+  xy: 591, 87
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+ninja/front_leg
+  rotate: true
+  xy: 1473, 24
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+ninja/front_shoulder
+  rotate: true
+  xy: 1540, 296
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+ninja/front_thigh
+  rotate: false
+  xy: 749, 110
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+ninja/head
+  rotate: false
+  xy: 1476, 959
+  size: 103, 71
+  orig: 103, 71
+  offset: 0, 0
+  index: -1
+ninja/neck
+  rotate: false
+  xy: 797, 31
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+ninja/rear_arm
+  rotate: false
+  xy: 1393, 88
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+ninja/rear_foot
+  rotate: true
+  xy: 241, 515
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+ninja/rear_hand
+  rotate: false
+  xy: 1015, 74
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+ninja/rear_leg
+  rotate: true
+  xy: 1476, 4
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+ninja/rear_shoulder
+  rotate: true
+  xy: 1540, 267
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+ninja/rear_thigh
+  rotate: true
+  xy: 916, 43
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+ninja_level1/body
+  rotate: false
+  xy: 994, 340
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+ninja_level1/front_arm
+  rotate: false
+  xy: 1396, 66
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+ninja_level1/front_foot
+  rotate: false
+  xy: 1156, 23
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+ninja_level1/front_hand
+  rotate: false
+  xy: 443, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+ninja_level1/front_leg
+  rotate: false
+  xy: 1568, 124
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+ninja_level1/front_shoulder
+  rotate: false
+  xy: 413, 144
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+ninja_level1/front_thigh
+  rotate: true
+  xy: 1258, 90
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+ninja_level1/head
+  rotate: false
+  xy: 379, 412
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+ninja_level2/head
+  rotate: false
+  xy: 379, 412
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+ninja_level3/head
+  rotate: false
+  xy: 379, 412
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+ninja_level1/helmet
+  rotate: true
+  xy: 238, 183
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+ninja_level1/neck
+  rotate: true
+  xy: 1156, 34
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+ninja_level2/neck
+  rotate: true
+  xy: 1156, 34
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+ninja_level3/neck
+  rotate: true
+  xy: 1156, 34
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+ninja_level1/rear_arm
+  rotate: false
+  xy: 1396, 44
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+ninja_level2/rear_arm
+  rotate: false
+  xy: 1396, 44
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+ninja_level3/rear_arm
+  rotate: false
+  xy: 1396, 44
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+ninja_level1/rear_foot
+  rotate: false
+  xy: 1603, 16
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+ninja_level1/rear_hand
+  rotate: true
+  xy: 622, 39
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+ninja_level1/rear_leg
+  rotate: true
+  xy: 1066, 23
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+ninja_level1/rear_shoulder
+  rotate: true
+  xy: 471, 148
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+ninja_level2/rear_shoulder
+  rotate: true
+  xy: 471, 148
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+ninja_level3/rear_shoulder
+  rotate: true
+  xy: 471, 148
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+ninja_level1/rear_thigh
+  rotate: true
+  xy: 1286, 90
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+ninja_level2/body
+  rotate: true
+  xy: 1134, 346
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+ninja_level2/front_arm
+  rotate: true
+  xy: 1422, 62
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+ninja_level3/front_arm
+  rotate: true
+  xy: 1422, 62
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+ninja_level2/front_foot
+  rotate: true
+  xy: 241, 499
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+ninja_level3/front_foot
+  rotate: true
+  xy: 241, 499
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+ninja_level2/front_hand
+  rotate: false
+  xy: 472, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+ninja_level3/front_hand
+  rotate: false
+  xy: 472, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+ninja_level2/front_leg
+  rotate: true
+  xy: 1566, 79
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+ninja_level3/front_leg
+  rotate: true
+  xy: 1566, 79
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+ninja_level2/front_shoulder
+  rotate: true
+  xy: 507, 143
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+ninja_level2/front_thigh
+  rotate: true
+  xy: 1314, 89
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+ninja_level3/front_thigh
+  rotate: true
+  xy: 1314, 89
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+ninja_level2/helmet
+  rotate: true
+  xy: 247, 109
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+ninja_level2/rear_foot
+  rotate: true
+  xy: 1379, 433
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+ninja_level3/rear_foot
+  rotate: true
+  xy: 1379, 433
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+ninja_level2/rear_hand
+  rotate: false
+  xy: 739, 31
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+ninja_level3/rear_hand
+  rotate: false
+  xy: 739, 31
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+ninja_level2/rear_leg
+  rotate: true
+  xy: 1090, 23
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+ninja_level3/rear_leg
+  rotate: true
+  xy: 1090, 23
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+ninja_level2/rear_thigh
+  rotate: true
+  xy: 1342, 88
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+ninja_level3/rear_thigh
+  rotate: true
+  xy: 1342, 88
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+ninja_level3/body
+  rotate: true
+  xy: 1134, 302
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+ninja_level3/front_shoulder
+  rotate: false
+  xy: 1604, 590
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+ninja_level3/helmet
+  rotate: true
+  xy: 1425, 480
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+recon/body
+  rotate: false
+  xy: 858, 285
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+recon/front_arm
+  rotate: false
+  xy: 686, 83
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+recon/front_foot
+  rotate: true
+  xy: 1587, 57
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+recon/front_hand
+  rotate: false
+  xy: 1540, 207
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+recon/front_leg
+  rotate: true
+  xy: 887, 43
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+recon/front_shoulder
+  rotate: true
+  xy: 625, 213
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+recon/front_thigh
+  rotate: true
+  xy: 1313, 160
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+recon/helmet
+  rotate: true
+  xy: 1183, 860
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+recon/neck
+  rotate: false
+  xy: 1493, 130
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+recon/rear_arm
+  rotate: false
+  xy: 716, 83
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+recon/rear_foot
+  rotate: true
+  xy: 1587, 36
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+recon/rear_hand
+  rotate: false
+  xy: 1506, 302
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+recon/rear_leg
+  rotate: false
+  xy: 802, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+recon/rear_shoulder
+  rotate: true
+  xy: 625, 180
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+recon/rear_thigh
+  rotate: true
+  xy: 1346, 160
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+recon_level1/body
+  rotate: false
+  xy: 424, 229
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+recon_level1/front_arm
+  rotate: false
+  xy: 1540, 124
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+recon_level2/front_arm
+  rotate: false
+  xy: 1540, 124
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+recon_level1/front_foot
+  rotate: false
+  xy: 1498, 31
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+recon_level2/front_foot
+  rotate: false
+  xy: 1498, 31
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+recon_level3/front_foot
+  rotate: false
+  xy: 1498, 31
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+recon_level1/front_hand
+  rotate: false
+  xy: 625, 123
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+recon_level1/front_leg
+  rotate: false
+  xy: 1567, 30
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+recon_level1/front_shoulder
+  rotate: true
+  xy: 1232, 249
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+recon_level2/front_shoulder
+  rotate: true
+  xy: 1232, 249
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+recon_level1/front_thigh
+  rotate: true
+  xy: 534, 30
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+recon_level2/front_thigh
+  rotate: true
+  xy: 534, 30
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+recon_level3/front_thigh
+  rotate: true
+  xy: 534, 30
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+recon_level1/head
+  rotate: true
+  xy: 671, 460
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+recon_level2/head
+  rotate: true
+  xy: 671, 460
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+recon_level1/helmet
+  rotate: true
+  xy: 244, 411
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+recon_level1/neck
+  rotate: true
+  xy: 1501, 6
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+recon_level2/neck
+  rotate: true
+  xy: 1501, 6
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+recon_level3/neck
+  rotate: true
+  xy: 1501, 6
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+recon_level1/rear_arm
+  rotate: true
+  xy: 946, 15
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+recon_level3/rear_arm
+  rotate: true
+  xy: 946, 15
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+recon_level1/rear_foot
+  rotate: false
+  xy: 1588, 137
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+recon_level2/rear_foot
+  rotate: false
+  xy: 1588, 137
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+recon_level3/rear_foot
+  rotate: false
+  xy: 1588, 137
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+recon_level1/rear_hand
+  rotate: false
+  xy: 656, 110
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+recon_level2/rear_hand
+  rotate: false
+  xy: 656, 110
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+recon_level1/rear_leg
+  rotate: true
+  xy: 1070, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+recon_level1/rear_shoulder
+  rotate: false
+  xy: 1297, 380
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+recon_level1/rear_thigh
+  rotate: false
+  xy: 826, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+recon_level2/rear_thigh
+  rotate: false
+  xy: 826, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+recon_level3/rear_thigh
+  rotate: false
+  xy: 826, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+recon_level2/body
+  rotate: false
+  xy: 423, 181
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+recon_level2/front_hand
+  rotate: false
+  xy: 687, 110
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+recon_level2/front_leg
+  rotate: true
+  xy: 1096, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+recon_level2/helmet
+  rotate: false
+  xy: 598, 464
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+recon_level2/rear_arm
+  rotate: false
+  xy: 986, 49
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+recon_level2/rear_leg
+  rotate: true
+  xy: 1122, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+recon_level2/rear_shoulder
+  rotate: false
+  xy: 1327, 382
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+recon_level3/body
+  rotate: false
+  xy: 1085, 311
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+recon_level3/front_arm
+  rotate: true
+  xy: 970, 18
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+recon_level3/front_hand
+  rotate: false
+  xy: 718, 110
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+recon_level3/front_leg
+  rotate: true
+  xy: 1148, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+recon_level3/front_shoulder
+  rotate: false
+  xy: 1296, 309
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+recon_level3/head
+  rotate: true
+  xy: 744, 459
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+recon_level3/helmet
+  rotate: false
+  xy: 617, 682
+  size: 81, 73
+  orig: 81, 73
+  offset: 0, 0
+  index: -1
+recon_level3/rear_hand
+  rotate: false
+  xy: 802, 98
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+recon_level3/rear_leg
+  rotate: true
+  xy: 1174, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+recon_level3/rear_shoulder
+  rotate: false
+  xy: 1327, 345
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+rocket/body
+  rotate: true
+  xy: 941, 340
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+rocket/front_arm
+  rotate: false
+  xy: 746, 83
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+rocket/front_foot
+  rotate: true
+  xy: 1587, 15
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+rocket/front_hand
+  rotate: false
+  xy: 1573, 204
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+rocket/front_leg
+  rotate: false
+  xy: 850, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+rocket/front_shoulder
+  rotate: false
+  xy: 665, 239
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+rocket/front_thigh
+  rotate: true
+  xy: 1379, 159
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+rocket/head
+  rotate: true
+  xy: 991, 676
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+rocket/helmet
+  rotate: true
+  xy: 98, 246
+  size: 91, 75
+  orig: 91, 75
+  offset: 0, 0
+  index: -1
+rocket/neck
+  rotate: false
+  xy: 1326, 309
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+rocket/rear_arm
+  rotate: true
+  xy: 574, 174
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+rocket/rear_foot
+  rotate: true
+  xy: 1606, 69
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+rocket/rear_hand
+  rotate: false
+  xy: 1541, 353
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+rocket/rear_leg
+  rotate: false
+  xy: 874, 14
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+rocket/rear_shoulder
+  rotate: false
+  xy: 665, 199
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+rocket/rear_thigh
+  rotate: true
+  xy: 1412, 158
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+rocket_level1/body
+  rotate: true
+  xy: 1085, 263
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+rocket_level1/front_arm
+  rotate: true
+  xy: 994, 21
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+rocket_level1/front_foot
+  rotate: false
+  xy: 1588, 124
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+rocket_level1/front_hand
+  rotate: false
+  xy: 833, 96
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+rocket_level1/front_leg
+  rotate: true
+  xy: 1200, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+rocket_level1/front_shoulder
+  rotate: false
+  xy: 1298, 272
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+rocket_level1/front_thigh
+  rotate: true
+  xy: 802, 73
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+rocket_level1/head
+  rotate: false
+  xy: 577, 330
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+rocket_level2/head
+  rotate: false
+  xy: 577, 330
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+rocket_level1/neck
+  rotate: true
+  xy: 1521, 14
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+rocket_level1/rear_arm
+  rotate: false
+  xy: 1447, 111
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+rocket_level1/rear_foot
+  rotate: true
+  xy: 1622, 93
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+rocket_level1/rear_hand
+  rotate: false
+  xy: 864, 94
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+rocket_level1/rear_leg
+  rotate: true
+  xy: 1226, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+rocket_level1/rear_shoulder
+  rotate: false
+  xy: 1328, 272
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+rocket_level1/rear_thigh
+  rotate: false
+  xy: 898, 14
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+rocket_level2/body
+  rotate: true
+  xy: 1134, 254
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+rocket_level2/front_arm
+  rotate: false
+  xy: 1114, 94
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+rocket_level2/front_foot
+  rotate: false
+  xy: 1587, 2
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+rocket_level2/front_hand
+  rotate: false
+  xy: 895, 94
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+rocket_level2/front_leg
+  rotate: true
+  xy: 1252, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+rocket_level2/front_shoulder
+  rotate: false
+  xy: 698, 240
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+rocket_level2/front_thigh
+  rotate: true
+  xy: 832, 71
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+rocket_level2/helmet
+  rotate: true
+  xy: 308, 203
+  size: 53, 16
+  orig: 53, 16
+  offset: 0, 0
+  index: -1
+rocket_level2/neck
+  rotate: false
+  xy: 1541, 16
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+rocket_level2/rear_arm
+  rotate: false
+  xy: 1420, 88
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+rocket_level2/rear_foot
+  rotate: true
+  xy: 1622, 75
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+rocket_level2/rear_hand
+  rotate: false
+  xy: 926, 93
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+rocket_level2/rear_leg
+  rotate: true
+  xy: 1278, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+rocket_level2/rear_shoulder
+  rotate: true
+  xy: 1298, 242
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+rocket_level2/rear_thigh
+  rotate: false
+  xy: 922, 14
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+rpg/body
+  rotate: false
+  xy: 910, 287
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+rpg/front_arm
+  rotate: false
+  xy: 862, 67
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+rpg/front_foot
+  rotate: true
+  xy: 1603, 48
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+rpg/front_hand
+  rotate: false
+  xy: 1507, 179
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+rpg/front_leg
+  rotate: true
+  xy: 1181, 143
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+rpg/front_shoulder
+  rotate: false
+  xy: 698, 200
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+rpg/front_thigh
+  rotate: true
+  xy: 1573, 177
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+rpg/head
+  rotate: false
+  xy: 1504, 474
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+rpg/helmet
+  rotate: false
+  xy: 1526, 701
+  size: 86, 75
+  orig: 86, 75
+  offset: 0, 0
+  index: -1
+rpg/neck
+  rotate: false
+  xy: 1100, 72
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+rpg/rear_arm
+  rotate: false
+  xy: 892, 67
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+rpg/rear_foot
+  rotate: true
+  xy: 1619, 36
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+rpg/rear_hand
+  rotate: false
+  xy: 1575, 353
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+rpg/rear_leg
+  rotate: false
+  xy: 1178, 114
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+rpg/rear_shoulder
+  rotate: false
+  xy: 731, 241
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+rpg/rear_thigh
+  rotate: true
+  xy: 1573, 150
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+rpg_level1/body
+  rotate: false
+  xy: 472, 235
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+rpg_level1/front_arm
+  rotate: false
+  xy: 1146, 82
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+rpg_level2/front_arm
+  rotate: false
+  xy: 1146, 82
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+rpg_level3/front_arm
+  rotate: false
+  xy: 1146, 82
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+rpg_level1/front_foot
+  rotate: true
+  xy: 1622, 57
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+rpg_level2/front_foot
+  rotate: true
+  xy: 1622, 57
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+rpg_level3/front_foot
+  rotate: true
+  xy: 1622, 57
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+rpg_level1/front_hand
+  rotate: true
+  xy: 957, 98
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+rpg_level2/front_hand
+  rotate: true
+  xy: 957, 98
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+rpg_level1/front_leg
+  rotate: true
+  xy: 1304, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+rpg_level2/front_leg
+  rotate: true
+  xy: 1304, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+rpg_level3/front_leg
+  rotate: true
+  xy: 1304, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+rpg_level1/front_shoulder
+  rotate: false
+  xy: 1357, 382
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+rpg_level1/front_thigh
+  rotate: true
+  xy: 650, 58
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+rpg_level2/front_thigh
+  rotate: true
+  xy: 650, 58
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+rpg_level3/front_thigh
+  rotate: true
+  xy: 650, 58
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+rpg_level1/head
+  rotate: false
+  xy: 817, 458
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+rpg_level1/helmet
+  rotate: false
+  xy: 450, 690
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+rpg_level1/neck
+  rotate: true
+  xy: 1566, 99
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+rpg_level2/neck
+  rotate: true
+  xy: 1566, 99
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+rpg_level3/neck
+  rotate: true
+  xy: 1566, 99
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+rpg_level1/rear_arm
+  rotate: false
+  xy: 1146, 58
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+rpg_level2/rear_arm
+  rotate: false
+  xy: 1146, 58
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+rpg_level3/rear_arm
+  rotate: false
+  xy: 1146, 58
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+rpg_level1/rear_foot
+  rotate: false
+  xy: 1605, 2
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+rpg_level2/rear_foot
+  rotate: false
+  xy: 1605, 2
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+rpg_level3/rear_foot
+  rotate: false
+  xy: 1605, 2
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+rpg_level1/rear_hand
+  rotate: true
+  xy: 986, 100
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+rpg_level2/rear_hand
+  rotate: true
+  xy: 986, 100
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+rpg_level3/rear_hand
+  rotate: true
+  xy: 986, 100
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+rpg_level1/rear_leg
+  rotate: true
+  xy: 1330, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+rpg_level2/rear_leg
+  rotate: true
+  xy: 1330, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+rpg_level3/rear_leg
+  rotate: true
+  xy: 1330, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+rpg_level1/rear_shoulder
+  rotate: false
+  xy: 1357, 345
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+rpg_level2/rear_shoulder
+  rotate: false
+  xy: 1357, 345
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+rpg_level3/rear_shoulder
+  rotate: false
+  xy: 1357, 345
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+rpg_level1/rear_thigh
+  rotate: true
+  xy: 1210, 142
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+rpg_level2/rear_thigh
+  rotate: true
+  xy: 1210, 142
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+rpg_level3/rear_thigh
+  rotate: true
+  xy: 1210, 142
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+rpg_level2/body
+  rotate: false
+  xy: 1183, 245
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+rpg_level2/front_shoulder
+  rotate: false
+  xy: 1358, 272
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+rpg_level2/head
+  rotate: true
+  xy: 249, 339
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+rpg_level3/head
+  rotate: true
+  xy: 249, 339
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+rpg_level2/helmet
+  rotate: false
+  xy: 615, 606
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+rpg_level3/body
+  rotate: false
+  xy: 375, 229
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+rpg_level3/front_hand
+  rotate: true
+  xy: 1448, 242
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+rpg_level3/front_shoulder
+  rotate: true
+  xy: 1335, 242
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+rpg_level3/helmet
+  rotate: false
+  xy: 1349, 631
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1
+shotgun/body
+  rotate: false
+  xy: 963, 287
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+shotgun/front_arm
+  rotate: false
+  xy: 922, 66
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+shotgun/front_foot
+  rotate: true
+  xy: 1603, 27
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+shotgun/front_hand
+  rotate: false
+  xy: 1540, 175
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+shotgun/front_leg
+  rotate: true
+  xy: 1202, 118
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+shotgun/front_shoulder
+  rotate: false
+  xy: 731, 201
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+shotgun/front_thigh
+  rotate: true
+  xy: 1507, 152
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+shotgun/head
+  rotate: false
+  xy: 305, 552
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+shotgun/helmet
+  rotate: false
+  xy: 1520, 624
+  size: 82, 75
+  orig: 82, 75
+  offset: 0, 0
+  index: -1
+shotgun/neck
+  rotate: false
+  xy: 1230, 70
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+shotgun/rear_arm
+  rotate: false
+  xy: 620, 68
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+shotgun/rear_foot
+  rotate: true
+  xy: 1619, 15
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+shotgun/rear_hand
+  rotate: false
+  xy: 1258, 216
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+shotgun/rear_leg
+  rotate: true
+  xy: 1239, 137
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+shotgun/rear_shoulder
+  rotate: false
+  xy: 764, 238
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+shotgun/rear_thigh
+  rotate: true
+  xy: 1540, 148
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+shotgun_level1/body
+  rotate: true
+  xy: 326, 174
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+shotgun_level1/front_arm
+  rotate: false
+  xy: 1174, 70
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+shotgun_level2/front_arm
+  rotate: false
+  xy: 1174, 70
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+shotgun_level3/front_arm
+  rotate: false
+  xy: 1174, 70
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+shotgun_level1/front_foot
+  rotate: false
+  xy: 1014, 194
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+shotgun_level1/front_hand
+  rotate: true
+  xy: 1004, 161
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+shotgun_level1/front_leg
+  rotate: true
+  xy: 1356, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+shotgun_level1/front_shoulder
+  rotate: false
+  xy: 1387, 381
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+shotgun_level1/front_thigh
+  rotate: true
+  xy: 680, 58
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+shotgun_level1/head
+  rotate: false
+  xy: 455, 542
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+shotgun_level1/helmet
+  rotate: true
+  xy: 312, 708
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+shotgun_level1/neck
+  rotate: true
+  xy: 1567, 54
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+shotgun_level1/rear_arm
+  rotate: false
+  xy: 1202, 70
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+shotgun_level1/rear_foot
+  rotate: false
+  xy: 504, 331
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+shotgun_level1/rear_hand
+  rotate: false
+  xy: 1054, 163
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+shotgun_level1/rear_leg
+  rotate: true
+  xy: 1382, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+shotgun_level1/rear_shoulder
+  rotate: false
+  xy: 1387, 344
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+shotgun_level1/rear_thigh
+  rotate: true
+  xy: 1268, 136
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+shotgun_level2/body
+  rotate: true
+  xy: 577, 283
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+shotgun_level2/front_foot
+  rotate: false
+  xy: 522, 331
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+shotgun_level3/front_foot
+  rotate: false
+  xy: 522, 331
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+shotgun_level2/front_hand
+  rotate: false
+  xy: 1085, 159
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+shotgun_level2/front_leg
+  rotate: true
+  xy: 1408, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+shotgun_level2/front_shoulder
+  rotate: false
+  xy: 1388, 272
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+shotgun_level2/front_thigh
+  rotate: true
+  xy: 710, 58
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+shotgun_level2/head
+  rotate: false
+  xy: 532, 534
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+shotgun_level2/helmet
+  rotate: true
+  xy: 229, 631
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+shotgun_level2/neck
+  rotate: true
+  xy: 1586, 99
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+shotgun_level3/neck
+  rotate: true
+  xy: 1586, 99
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+shotgun_level2/rear_arm
+  rotate: false
+  xy: 1258, 66
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+shotgun_level2/rear_foot
+  rotate: false
+  xy: 1070, 61
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+shotgun_level3/rear_foot
+  rotate: false
+  xy: 1070, 61
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+shotgun_level2/rear_hand
+  rotate: false
+  xy: 1015, 102
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+shotgun_level2/rear_leg
+  rotate: true
+  xy: 1434, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+shotgun_level2/rear_shoulder
+  rotate: true
+  xy: 1372, 242
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+shotgun_level2/rear_thigh
+  rotate: true
+  xy: 1297, 136
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+shotgun_level3/body
+  rotate: true
+  xy: 625, 279
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+shotgun_level3/front_hand
+  rotate: false
+  xy: 1085, 130
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+shotgun_level3/front_leg
+  rotate: false
+  xy: 1444, 62
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+shotgun_level3/front_shoulder
+  rotate: false
+  xy: 1417, 375
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+shotgun_level3/front_thigh
+  rotate: true
+  xy: 740, 58
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+shotgun_level3/head
+  rotate: true
+  xy: 383, 550
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+shotgun_level3/helmet
+  rotate: false
+  xy: 228, 713
+  size: 82, 75
+  orig: 82, 75
+  offset: 0, 0
+  index: -1
+shotgun_level3/rear_arm
+  rotate: false
+  xy: 1286, 66
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+shotgun_level3/rear_hand
+  rotate: false
+  xy: 1116, 147
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+shotgun_level3/rear_leg
+  rotate: true
+  xy: 1491, 65
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+shotgun_level3/rear_shoulder
+  rotate: false
+  xy: 1418, 272
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+shotgun_level3/rear_thigh
+  rotate: true
+  xy: 1326, 136
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+smg_level1/body
+  rotate: false
+  xy: 375, 180
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+smg_level1/front_arm
+  rotate: false
+  xy: 1314, 65
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+smg_level2/front_arm
+  rotate: false
+  xy: 1314, 65
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+smg_level1/front_foot
+  rotate: false
+  xy: 1541, 3
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+smg_level2/front_foot
+  rotate: false
+  xy: 1541, 3
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+smg_level3/front_foot
+  rotate: false
+  xy: 1541, 3
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+smg_level1/front_hand
+  rotate: false
+  xy: 1116, 118
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+smg_level1/front_leg
+  rotate: true
+  xy: 1517, 60
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+smg_level1/front_shoulder
+  rotate: true
+  xy: 1409, 242
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+smg_level1/front_thigh
+  rotate: true
+  xy: 770, 58
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+smg_level2/front_thigh
+  rotate: true
+  xy: 770, 58
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+smg_level1/head
+  rotate: false
+  xy: 686, 527
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+smg_level1/helmet
+  rotate: false
+  xy: 697, 600
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+smg_level1/rear_arm
+  rotate: false
+  xy: 1342, 64
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+smg_level1/rear_foot
+  rotate: false
+  xy: 1015, 61
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+smg_level2/rear_foot
+  rotate: false
+  xy: 1015, 61
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+smg_level3/rear_foot
+  rotate: false
+  xy: 1015, 61
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+smg_level1/rear_hand
+  rotate: false
+  xy: 1147, 135
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+smg_level1/rear_leg
+  rotate: true
+  xy: 1491, 44
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+smg_level2/rear_leg
+  rotate: true
+  xy: 1491, 44
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+smg_level3/rear_leg
+  rotate: true
+  xy: 1491, 44
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+smg_level1/rear_shoulder
+  rotate: false
+  xy: 1447, 375
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+smg_level2/rear_shoulder
+  rotate: false
+  xy: 1447, 375
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+smg_level1/rear_thigh
+  rotate: true
+  xy: 1379, 135
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+smg_level2/rear_thigh
+  rotate: true
+  xy: 1379, 135
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+smg_level2/body
+  rotate: false
+  xy: 317, 125
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+smg_level2/front_hand
+  rotate: false
+  xy: 1147, 106
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+smg_level3/front_hand
+  rotate: false
+  xy: 1147, 106
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+smg_level2/front_leg
+  rotate: true
+  xy: 1517, 39
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+smg_level3/front_leg
+  rotate: true
+  xy: 1517, 39
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+smg_level2/front_shoulder
+  rotate: false
+  xy: 1448, 273
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+smg_level2/head
+  rotate: false
+  xy: 762, 526
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+smg_level2/helmet
+  rotate: false
+  xy: 1434, 555
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+smg_level2/rear_arm
+  rotate: false
+  xy: 1174, 46
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+smg_level2/rear_hand
+  rotate: false
+  xy: 1070, 101
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+smg_level3/body
+  rotate: false
+  xy: 322, 76
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+smg_level3/front_arm
+  rotate: false
+  xy: 1202, 46
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+smg_level3/front_shoulder
+  rotate: true
+  xy: 1504, 364
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+smg_level3/front_thigh
+  rotate: true
+  xy: 649, 33
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+smg_level3/head
+  rotate: false
+  xy: 838, 525
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+smg_level3/helmet
+  rotate: false
+  xy: 1516, 548
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+smg_level3/rear_arm
+  rotate: false
+  xy: 1230, 46
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+smg_level3/rear_hand
+  rotate: true
+  xy: 562, 112
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+smg_level3/rear_shoulder
+  rotate: true
+  xy: 1504, 334
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+smg_level3/rear_thigh
+  rotate: true
+  xy: 1408, 134
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+stick/body
+  rotate: false
+  xy: 1582, 418
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+stick/helmet
+  rotate: false
+  xy: 154, 2
+  size: 92, 70
+  orig: 92, 70
+  offset: 0, 0
+  index: -1
+stick_level1/body
+  rotate: true
+  xy: 1134, 390
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+stick_level1/front_arm
+  rotate: false
+  xy: 1258, 42
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+stick_level1/front_foot
+  rotate: true
+  xy: 1622, 399
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+stick_level1/front_hand
+  rotate: false
+  xy: 504, 113
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+stick_level1/front_leg
+  rotate: true
+  xy: 1192, 24
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+stick_level1/front_shoulder
+  rotate: true
+  xy: 894, 217
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+stick_level1/front_thigh
+  rotate: true
+  xy: 679, 33
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+stick_level1/head
+  rotate: true
+  xy: 522, 396
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+stick_level1/helmet
+  rotate: false
+  xy: 1443, 855
+  size: 87, 73
+  orig: 87, 73
+  offset: 0, 0
+  index: -1
+stick_level1/neck
+  rotate: true
+  xy: 1615, 784
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+stick_level1/rear_arm
+  rotate: false
+  xy: 1286, 42
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+stick_level1/rear_foot
+  rotate: true
+  xy: 1018, 43
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+stick_level1/rear_hand
+  rotate: true
+  xy: 562, 81
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+stick_level1/rear_leg
+  rotate: true
+  xy: 1447, 23
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+stick_level1/rear_shoulder
+  rotate: true
+  xy: 932, 217
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+stick_level1/rear_thigh
+  rotate: false
+  xy: 1061, 310
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+stick_level2/body
+  rotate: false
+  xy: 1292, 449
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+stick_level2/front_arm
+  rotate: false
+  xy: 1218, 24
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+stick_level3/front_arm
+  rotate: false
+  xy: 1218, 24
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+swat_level1/front_arm
+  rotate: false
+  xy: 1218, 24
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+swat_level2/front_arm
+  rotate: false
+  xy: 1218, 24
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+swat_level3/front_arm
+  rotate: false
+  xy: 1218, 24
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+stick_level2/front_foot
+  rotate: false
+  xy: 1020, 754
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+stick_level3/front_foot
+  rotate: false
+  xy: 1020, 754
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+swat_level1/front_foot
+  rotate: false
+  xy: 1020, 754
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+swat_level2/front_foot
+  rotate: false
+  xy: 1020, 754
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+swat_level3/front_foot
+  rotate: false
+  xy: 1020, 754
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+stick_level2/front_hand
+  rotate: false
+  xy: 501, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+swat_level1/front_hand
+  rotate: false
+  xy: 501, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+swat_level2/front_hand
+  rotate: false
+  xy: 501, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+swat_level3/front_hand
+  rotate: false
+  xy: 501, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+stick_level2/front_leg
+  rotate: false
+  xy: 1606, 111
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+stick_level3/front_leg
+  rotate: false
+  xy: 1606, 111
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+swat_level1/front_leg
+  rotate: false
+  xy: 1606, 111
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+swat_level2/front_leg
+  rotate: false
+  xy: 1606, 111
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+swat_level3/front_leg
+  rotate: false
+  xy: 1606, 111
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+stick_level2/front_shoulder
+  rotate: true
+  xy: 1362, 214
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+stick_level2/front_thigh
+  rotate: false
+  xy: 963, 46
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+stick_level3/front_thigh
+  rotate: false
+  xy: 963, 46
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+swat_level1/front_thigh
+  rotate: false
+  xy: 963, 46
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+swat_level2/front_thigh
+  rotate: false
+  xy: 963, 46
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+swat_level3/front_thigh
+  rotate: false
+  xy: 963, 46
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+stick_level2/head
+  rotate: true
+  xy: 435, 342
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+stick_level2/helmet
+  rotate: false
+  xy: 1438, 780
+  size: 87, 73
+  orig: 87, 73
+  offset: 0, 0
+  index: -1
+stick_level2/neck
+  rotate: false
+  xy: 1257, 24
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+stick_level3/neck
+  rotate: false
+  xy: 1257, 24
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+swat_level1/neck
+  rotate: false
+  xy: 1257, 24
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+swat_level2/neck
+  rotate: false
+  xy: 1257, 24
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+swat_level3/neck
+  rotate: false
+  xy: 1257, 24
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+stick_level2/rear_arm
+  rotate: false
+  xy: 1465, 64
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+stick_level3/rear_arm
+  rotate: false
+  xy: 1465, 64
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+swat_level1/rear_arm
+  rotate: false
+  xy: 1465, 64
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+swat_level2/rear_arm
+  rotate: false
+  xy: 1465, 64
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+swat_level3/rear_arm
+  rotate: false
+  xy: 1465, 64
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+stick_level2/rear_foot
+  rotate: false
+  xy: 874, 3
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+stick_level3/rear_foot
+  rotate: false
+  xy: 874, 3
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+swat_level1/rear_foot
+  rotate: false
+  xy: 874, 3
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+swat_level2/rear_foot
+  rotate: false
+  xy: 874, 3
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+swat_level3/rear_foot
+  rotate: false
+  xy: 874, 3
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+stick_level2/rear_hand
+  rotate: false
+  xy: 768, 31
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+stick_level3/rear_hand
+  rotate: false
+  xy: 768, 31
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+swat_level1/rear_hand
+  rotate: false
+  xy: 768, 31
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+swat_level2/rear_hand
+  rotate: false
+  xy: 768, 31
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+swat_level3/rear_hand
+  rotate: false
+  xy: 768, 31
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+stick_level2/rear_leg
+  rotate: true
+  xy: 1114, 23
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+stick_level3/rear_leg
+  rotate: true
+  xy: 1114, 23
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+swat_level1/rear_leg
+  rotate: true
+  xy: 1114, 23
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+swat_level2/rear_leg
+  rotate: true
+  xy: 1114, 23
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+swat_level3/rear_leg
+  rotate: true
+  xy: 1114, 23
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+stick_level2/rear_shoulder
+  rotate: false
+  xy: 418, 90
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+stick_level3/rear_shoulder
+  rotate: false
+  xy: 418, 90
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+swat_level1/rear_shoulder
+  rotate: false
+  xy: 418, 90
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+swat_level2/rear_shoulder
+  rotate: false
+  xy: 418, 90
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+swat_level3/rear_shoulder
+  rotate: false
+  xy: 418, 90
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+stick_level2/rear_thigh
+  rotate: true
+  xy: 1314, 43
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+stick_level3/rear_thigh
+  rotate: true
+  xy: 1314, 43
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+swat_level1/rear_thigh
+  rotate: true
+  xy: 1314, 43
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+swat_level2/rear_thigh
+  rotate: true
+  xy: 1314, 43
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+swat_level3/rear_thigh
+  rotate: true
+  xy: 1314, 43
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+stick_level3/body
+  rotate: true
+  xy: 1339, 449
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+stick_level3/front_hand
+  rotate: false
+  xy: 530, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+stick_level3/front_shoulder
+  rotate: false
+  xy: 802, 182
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+stick_level3/head
+  rotate: true
+  xy: 874, 392
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+stick_level3/helmet
+  rotate: false
+  xy: 1349, 707
+  size: 87, 73
+  orig: 87, 73
+  offset: 0, 0
+  index: -1
+swat/body
+  rotate: true
+  xy: 1581, 913
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+swat/front_arm
+  rotate: true
+  xy: 476, 85
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+swat/front_foot
+  rotate: false
+  xy: 1137, 689
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+swat/front_hand
+  rotate: false
+  xy: 365, 2
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+swat/front_leg
+  rotate: true
+  xy: 709, 32
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+swat/front_shoulder
+  rotate: false
+  xy: 1598, 548
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+swat/front_thigh
+  rotate: true
+  xy: 1397, 213
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+swat/head
+  rotate: false
+  xy: 609, 532
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+swat/helmet
+  rotate: false
+  xy: 1261, 640
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+swat/neck
+  rotate: true
+  xy: 1061, 280
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+swat/rear_arm
+  rotate: false
+  xy: 625, 152
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+swat/rear_foot
+  rotate: true
+  xy: 957, 129
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+swat/rear_hand
+  rotate: false
+  xy: 868, 184
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+swat/rear_leg
+  rotate: false
+  xy: 633, 2
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+swat/rear_shoulder
+  rotate: false
+  xy: 543, 302
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+swat/rear_thigh
+  rotate: true
+  xy: 1258, 188
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+swat_level1/body
+  rotate: true
+  xy: 721, 281
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+swat_level1/front_shoulder
+  rotate: false
+  xy: 421, 54
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+swat_level1/head
+  rotate: false
+  xy: 593, 396
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+swat_level1/helmet
+  rotate: false
+  xy: 1140, 537
+  size: 80, 73
+  orig: 80, 73
+  offset: 0, 0
+  index: -1
+swat_level2/body
+  rotate: true
+  xy: 673, 280
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+swat_level2/front_shoulder
+  rotate: false
+  xy: 1478, 296
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+swat_level2/head
+  rotate: false
+  xy: 664, 392
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+swat_level3/head
+  rotate: false
+  xy: 664, 392
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+swat_level2/helmet
+  rotate: false
+  xy: 533, 683
+  size: 82, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+swat_level3/body
+  rotate: false
+  xy: 1186, 293
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+swat_level3/front_shoulder
+  rotate: true
+  xy: 1085, 188
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+swat_level3/helmet
+  rotate: false
+  xy: 1140, 612
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+trap/barricade_1
+  rotate: false
+  xy: 2, 811
+  size: 101, 219
+  orig: 101, 219
+  offset: 0, 0
+  index: -1
+weapons/aid_level1
+  rotate: false
+  xy: 1109, 941
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+weapons/aid_level2
+  rotate: true
+  xy: 1302, 506
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+weapons/aid_level3
+  rotate: true
+  xy: 1532, 848
+  size: 80, 47
+  orig: 80, 47
+  offset: 0, 0
+  index: -1
+weapons/aid_level4
+  rotate: false
+  xy: 1140, 497
+  size: 80, 38
+  orig: 80, 38
+  offset: 0, 0
+  index: -1
+weapons/aid_level5
+  rotate: true
+  xy: 238, 257
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+weapons/bomb_1
+  rotate: true
+  xy: 1140, 439
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+weapons/bomb_2
+  rotate: false
+  xy: 989, 522
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+weapons/bomb_3
+  rotate: false
+  xy: 248, 35
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+weapons/bomb_4
+  rotate: false
+  xy: 914, 522
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+weapons/bomb_5
+  rotate: false
+  xy: 756, 833
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+weapons/bomb_6
+  rotate: false
+  xy: 848, 831
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+weapons/bomb_7
+  rotate: false
+  xy: 275, 842
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+weapons/chemi_level1
+  rotate: false
+  xy: 1148, 984
+  size: 113, 46
+  orig: 113, 46
+  offset: 0, 0
+  index: -1
+weapons/electric_1
+  rotate: false
+  xy: 1016, 859
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+weapons/electric_2
+  rotate: true
+  xy: 317, 340
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+weapons/electric_3
+  rotate: false
+  xy: 504, 344
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+weapons/electric_4
+  rotate: false
+  xy: 756, 751
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+weapons/electric_5
+  rotate: false
+  xy: 275, 790
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+weapons/fire_level1
+  rotate: false
+  xy: 644, 757
+  size: 90, 42
+  orig: 90, 42
+  offset: 0, 0
+  index: -1
+weapons/fire_level2
+  rotate: true
+  xy: 1222, 597
+  size: 90, 34
+  orig: 90, 34
+  offset: 0, 0
+  index: -1
+weapons/fire_level3
+  rotate: false
+  xy: 1171, 942
+  size: 90, 40
+  orig: 90, 40
+  offset: 0, 0
+  index: -1
+weapons/handgun_G17
+  rotate: true
+  xy: 1391, 450
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+weapons/handgundual_G17
+  rotate: true
+  xy: 1391, 450
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+weapons/handgun_G18
+  rotate: true
+  xy: 906, 346
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+weapons/handgundual_G18
+  rotate: true
+  xy: 906, 346
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+weapons/handgun_M1911
+  rotate: true
+  xy: 239, 790
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+weapons/handgundual_M1911
+  rotate: true
+  xy: 239, 790
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+weapons/handgun_M9
+  rotate: false
+  xy: 805, 255
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+weapons/handgundual_M9
+  rotate: false
+  xy: 805, 255
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+weapons/handgun_MAGNUM
+  rotate: false
+  xy: 1011, 391
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+weapons/handgundual_MAGNUM
+  rotate: false
+  xy: 1011, 391
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+weapons/handgun_MP412REX
+  rotate: false
+  xy: 60, 24
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+weapons/handgundual_MP412REX
+  rotate: false
+  xy: 60, 24
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+weapons/handgun_MP443
+  rotate: false
+  xy: 1425, 442
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+weapons/handgundual_MP443
+  rotate: false
+  xy: 1425, 442
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+weapons/handgun_magnumex
+  rotate: true
+  xy: 1199, 443
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+weapons/handgundual_magnumex
+  rotate: true
+  xy: 1199, 443
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+weapons/handgun_rivoler
+  rotate: true
+  xy: 1554, 433
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+weapons/handgundual_rivoler
+  rotate: true
+  xy: 1554, 433
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+weapons/iron_level1
+  rotate: true
+  xy: 1096, 759
+  size: 98, 39
+  orig: 98, 39
+  offset: 0, 0
+  index: -1
+weapons/iron_level2
+  rotate: true
+  xy: 1096, 759
+  size: 98, 39
+  orig: 98, 39
+  offset: 0, 0
+  index: -1
+weapons/iron_level3
+  rotate: true
+  xy: 1096, 759
+  size: 98, 39
+  orig: 98, 39
+  offset: 0, 0
+  index: -1
+weapons/iron_level4
+  rotate: true
+  xy: 1096, 759
+  size: 98, 39
+  orig: 98, 39
+  offset: 0, 0
+  index: -1
+weapons/iron_level5
+  rotate: true
+  xy: 1096, 759
+  size: 98, 39
+  orig: 98, 39
+  offset: 0, 0
+  index: -1
+weapons/machine_L86A2
+  rotate: false
+  xy: 560, 966
+  size: 145, 64
+  orig: 145, 64
+  offset: 0, 0
+  index: -1
+weapons/machine_M249
+  rotate: false
+  xy: 707, 966
+  size: 145, 64
+  orig: 145, 64
+  offset: 0, 0
+  index: -1
+weapons/machine_MG4
+  rotate: false
+  xy: 854, 966
+  size: 145, 64
+  orig: 145, 64
+  offset: 0, 0
+  index: -1
+weapons/machine_PKP
+  rotate: true
+  xy: 2, 162
+  size: 145, 48
+  orig: 145, 48
+  offset: 0, 0
+  index: -1
+weapons/machine_m60
+  rotate: false
+  xy: 1001, 982
+  size: 145, 48
+  orig: 145, 48
+  offset: 0, 0
+  index: -1
+weapons/mine_1
+  rotate: false
+  xy: 1078, 454
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+weapons/mine_2
+  rotate: true
+  xy: 373, 277
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+weapons/mine_3
+  rotate: false
+  xy: 450, 408
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+weapons/mine_4
+  rotate: false
+  xy: 305, 485
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+weapons/mine_5
+  rotate: false
+  xy: 1345, 496
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+weapons/rifle_AKS-74u
+  rotate: false
+  xy: 82, 339
+  size: 100, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+weapons/rifle_G36C
+  rotate: false
+  xy: 450, 812
+  size: 100, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+weapons/rifle_SCAR-H
+  rotate: true
+  xy: 52, 207
+  size: 100, 44
+  orig: 100, 44
+  offset: 0, 0
+  index: -1
+weapons/rifle_SG553
+  rotate: true
+  xy: 60, 61
+  size: 100, 37
+  orig: 100, 37
+  offset: 0, 0
+  index: -1
+weapons/rifle_m16
+  rotate: false
+  xy: 1370, 975
+  size: 104, 55
+  orig: 104, 55
+  offset: 0, 0
+  index: -1
+weapons/rocket_chemical
+  rotate: true
+  xy: 2, 479
+  size: 168, 82
+  orig: 168, 82
+  offset: 0, 0
+  index: -1
+weapons/rocket_genera
+  rotate: true
+  xy: 2, 24
+  size: 136, 56
+  orig: 136, 56
+  offset: 0, 0
+  index: -1
+weapons/rocket_m1
+  rotate: true
+  xy: 2, 309
+  size: 168, 56
+  orig: 168, 56
+  offset: 0, 0
+  index: -1
+weapons/rocket_pecise
+  rotate: false
+  xy: 105, 943
+  size: 168, 87
+  orig: 168, 87
+  offset: 0, 0
+  index: -1
+weapons/rocket_support
+  rotate: false
+  xy: 419, 950
+  size: 139, 80
+  orig: 139, 80
+  offset: 0, 0
+  index: -1
+weapons/shield_2
+  rotate: true
+  xy: 367, 627
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+weapons/shield_3
+  rotate: false
+  xy: 1078, 597
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+weapons/shield_4
+  rotate: true
+  xy: 1258, 578
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+weapons/shield_5
+  rotate: true
+  xy: 1346, 569
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+weapons/shield_broken
+  rotate: false
+  xy: 1078, 509
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+weapons/shockmine_1
+  rotate: false
+  xy: 432, 283
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+weapons/shockmine_2
+  rotate: true
+  xy: 1582, 476
+  size: 70, 51
+  orig: 70, 51
+  offset: 0, 0
+  index: -1
+weapons/shockmine_3
+  rotate: true
+  xy: 175, 237
+  size: 100, 61
+  orig: 100, 61
+  offset: 0, 0
+  index: -1
+weapons/shockmine_4
+  rotate: false
+  xy: 103, 637
+  size: 100, 75
+  orig: 100, 75
+  offset: 0, 0
+  index: -1
+weapons/shockmine_5
+  rotate: false
+  xy: 86, 477
+  size: 100, 76
+  orig: 100, 76
+  offset: 0, 0
+  index: -1
+weapons/shotgun_Flechette
+  rotate: false
+  xy: 659, 801
+  size: 95, 40
+  orig: 95, 40
+  offset: 0, 0
+  index: -1
+weapons/shotgun_Frag
+  rotate: false
+  xy: 1263, 935
+  size: 95, 42
+  orig: 95, 42
+  offset: 0, 0
+  index: -1
+weapons/shotgun_MK3A1
+  rotate: true
+  xy: 1137, 762
+  size: 95, 45
+  orig: 95, 45
+  offset: 0, 0
+  index: -1
+weapons/shotgun_SLUG
+  rotate: false
+  xy: 1360, 932
+  size: 95, 41
+  orig: 95, 41
+  offset: 0, 0
+  index: -1
+weapons/shotgun_sg
+  rotate: true
+  xy: 206, 380
+  size: 95, 36
+  orig: 95, 36
+  offset: 0, 0
+  index: -1
+weapons/shotgun_sg2
+  rotate: false
+  xy: 450, 766
+  size: 95, 44
+  orig: 95, 44
+  offset: 0, 0
+  index: -1
+weapons/shotgun_sgs
+  rotate: false
+  xy: 547, 758
+  size: 95, 44
+  orig: 95, 44
+  offset: 0, 0
+  index: -1
+weapons/smg_AS-VAL
+  rotate: false
+  xy: 450, 868
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+weapons/smg_MP7
+  rotate: false
+  xy: 103, 714
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+weapons/smg_PDW-R
+  rotate: false
+  xy: 86, 555
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+weapons/smg_U100
+  rotate: false
+  xy: 82, 395
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+weapons/smg_UMP45
+  rotate: false
+  xy: 552, 843
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+weapons/smg_m5k
+  rotate: true
+  xy: 253, 540
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+weapons/smg_p90
+  rotate: false
+  xy: 654, 843
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+weapons/sniper_L96
+  rotate: false
+  xy: 776, 922
+  size: 105, 42
+  orig: 105, 42
+  offset: 0, 0
+  index: -1
+weapons/sniper_M39
+  rotate: false
+  xy: 105, 796
+  size: 106, 37
+  orig: 106, 37
+  offset: 0, 0
+  index: -1
+weapons/sniper_M40A5
+  rotate: false
+  xy: 883, 922
+  size: 105, 42
+  orig: 105, 42
+  offset: 0, 0
+  index: -1
+weapons/sniper_SKS
+  rotate: false
+  xy: 1263, 979
+  size: 105, 51
+  orig: 105, 51
+  offset: 0, 0
+  index: -1
+weapons/sniper_SV98
+  rotate: false
+  xy: 552, 804
+  size: 105, 37
+  orig: 105, 37
+  offset: 0, 0
+  index: -1
+weapons/sniper_SVD
+  rotate: true
+  xy: 239, 836
+  size: 105, 34
+  orig: 105, 34
+  offset: 0, 0
+  index: -1
+weapons/stick
+  rotate: true
+  xy: 188, 529
+  size: 106, 39
+  orig: 106, 39
+  offset: 0, 0
+  index: -1
+weapons/stick_bat
+  rotate: false
+  xy: 1001, 941
+  size: 106, 39
+  orig: 106, 39
+  offset: 0, 0
+  index: -1
+weapons/stick_hardbat
+  rotate: false
+  xy: 560, 925
+  size: 106, 39
+  orig: 106, 39
+  offset: 0, 0
+  index: -1
+weapons/stick_hocky
+  rotate: false
+  xy: 668, 925
+  size: 106, 39
+  orig: 106, 39
+  offset: 0, 0
+  index: -1
+weapons/stick_t
+  rotate: true
+  xy: 293, 258
+  size: 79, 32
+  orig: 79, 32
+  offset: 0, 0
+  index: -1
+weapons/sword_0
+  rotate: true
+  xy: 205, 694
+  size: 100, 21
+  orig: 100, 21
+  offset: 0, 0
+  index: -1
+weapons/sword_1
+  rotate: true
+  xy: 184, 378
+  size: 97, 20
+  orig: 97, 20
+  offset: 0, 0
+  index: -1
+weapons/sword_electric
+  rotate: true
+  xy: 229, 532
+  size: 97, 22
+  orig: 97, 22
+  offset: 0, 0
+  index: -1
+weapons/sword_fire
+  rotate: false
+  xy: 1457, 930
+  size: 97, 27
+  orig: 97, 27
+  offset: 0, 0
+  index: -1
+weapons/sword_great
+  rotate: false
+  xy: 2, 2
+  size: 150, 20
+  orig: 150, 20
+  offset: 0, 0
+  index: -1
+weapons/sword_long
+  rotate: true
+  xy: 60, 342
+  size: 135, 20
+  orig: 135, 20
+  offset: 0, 0
+  index: -1
