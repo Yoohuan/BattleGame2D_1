@@ -122,6 +122,10 @@ public class Soldier : MonoBehaviour
         }
         else if (isAttack && other.CompareTag("DefendSoldier"))
         {
+            if(!opponentList[0])
+            {
+                return;
+            }
             opponentList.Remove(other.gameObject);
             purPos = opponentList[0].transform.position;
             distance = Vector2.Distance(transform.position, barricade.transform.position);
