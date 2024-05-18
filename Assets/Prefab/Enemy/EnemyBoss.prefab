@@ -427,6 +427,13 @@ MonoBehaviour:
   farAttack1: 0
   farAttack2: 0
   farAttack3: 0
+  farAttack4: 0
+  soldier1: 0
+  soldier2: 0
+  soldier3: 0
+  soldier4: 0
+  isBaseDefender: 0
+  baseDefenerLevel: 0
   soldierAnimator: {fileID: 3198219866809706772}
   anim_Move: {fileID: 11400000, guid: 6b2d31a3676b91644be694a9b34989b6, type: 2}
   anim_Attack: {fileID: 11400000, guid: adafd5c873e592b4f994b243ec7622ff, type: 2}

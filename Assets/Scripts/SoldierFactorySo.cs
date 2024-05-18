@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 
@@ -50,7 +51,10 @@ public class SoldierFactorySO : ScriptableObject
     {
         for (int i = 0; i < d_Soldier1.quantity; i++)
         {
-            Instantiate(d_Soldier1.prefab, GetRandomPos(DefendPos), Quaternion.identity);
+            Soldier soldier = Instantiate(d_Soldier1.prefab, GetRandomPos(DefendPos), Quaternion.identity);
+            soldier.GetComponentInChildren<SoldierName>().isPlayer = true;
+            soldier.GetComponentInChildren<SoldierName>().playerName = "player";
+            soldier.GetComponentInChildren<TextMeshPro>().text = "player";
         }
     }
 
@@ -58,7 +62,10 @@ public class SoldierFactorySO : ScriptableObject
     {
         for (int i = 0; i < d_Soldier2.quantity; i++)
         {
-            Instantiate(d_Soldier2.prefab, GetRandomPos(DefendPos), Quaternion.identity);
+            Soldier soldier = Instantiate(d_Soldier2.prefab, GetRandomPos(DefendPos), Quaternion.identity);
+            soldier.GetComponentInChildren<SoldierName>().isPlayer = true;
+            soldier.GetComponentInChildren<SoldierName>().playerName = "player";
+            soldier.GetComponentInChildren<TextMeshPro>().text = "player";
         }
     }
 
@@ -66,7 +73,10 @@ public class SoldierFactorySO : ScriptableObject
     {
         for (int i = 0; i < d_Soldier3.quantity; i++)
         {
-            Instantiate(d_Soldier3.prefab, GetRandomPos(DefendPos), Quaternion.identity);
+            Soldier soldier = Instantiate(d_Soldier3.prefab, GetRandomPos(DefendPos), Quaternion.identity);
+            soldier.GetComponentInChildren<SoldierName>().isPlayer = true;
+            soldier.GetComponentInChildren<SoldierName>().playerName = "player";
+            soldier.GetComponentInChildren<TextMeshPro>().text = "player";
         }
     }
 
@@ -74,7 +84,10 @@ public class SoldierFactorySO : ScriptableObject
     {
         for (int i = 0; i < d_Soldier4.quantity; i++)
         {
-            Instantiate(d_Soldier4.prefab, GetRandomPos(DefendPos), Quaternion.identity);
+            Soldier soldier = Instantiate(d_Soldier4.prefab, GetRandomPos(DefendPos), Quaternion.identity);
+            soldier.GetComponentInChildren<SoldierName>().isPlayer = true;
+            soldier.GetComponentInChildren<SoldierName>().playerName = "player";
+            soldier.GetComponentInChildren<TextMeshPro>().text = "player";
         }
     }
 
@@ -82,7 +95,10 @@ public class SoldierFactorySO : ScriptableObject
     {
         for (int i = 0; i < a_Soldier1.quantity; i++)
         {
-            Instantiate(a_Soldier1.prefab, GetRandomPos(AttackPos), Quaternion.identity);
+            Soldier soldier = Instantiate(a_Soldier1.prefab, GetRandomPos(AttackPos), Quaternion.identity);
+            soldier.GetComponentInChildren<SoldierName>().isPlayer = true;
+            soldier.GetComponentInChildren<SoldierName>().playerName = "player";
+            soldier.GetComponentInChildren<TextMeshPro>().text = "player";
         }
     }
 
@@ -90,7 +106,10 @@ public class SoldierFactorySO : ScriptableObject
     {
         for (int i = 0; i < a_Soldier2.quantity; i++)
         {
-            Instantiate(a_Soldier2.prefab, GetRandomPos(AttackPos), Quaternion.identity);
+            Soldier soldier = Instantiate(a_Soldier2.prefab, GetRandomPos(AttackPos), Quaternion.identity);
+            soldier.GetComponentInChildren<SoldierName>().isPlayer = true;
+            soldier.GetComponentInChildren<SoldierName>().playerName = "player";
+            soldier.GetComponentInChildren<TextMeshPro>().text = "player";
         }
     }
 
@@ -98,7 +117,10 @@ public class SoldierFactorySO : ScriptableObject
     {
         for (int i = 0; i < a_Soldier3.quantity; i++)
         {
-            Instantiate(a_Soldier3.prefab, GetRandomPos(AttackPos), Quaternion.identity);
+            Soldier soldier = Instantiate(a_Soldier3.prefab, GetRandomPos(AttackPos), Quaternion.identity);
+            soldier.GetComponentInChildren<SoldierName>().isPlayer = true;
+            soldier.GetComponentInChildren<SoldierName>().playerName = "player";
+            soldier.GetComponentInChildren<TextMeshPro>().text = "player";
         }
     }
 
@@ -106,7 +128,10 @@ public class SoldierFactorySO : ScriptableObject
     {
         for (int i = 0; i < a_Soldier4.quantity; i++)
         {
-            Instantiate(a_Soldier4.prefab, GetRandomPos(AttackPos), Quaternion.identity);
+            Soldier soldier = Instantiate(a_Soldier4.prefab, GetRandomPos(AttackPos), Quaternion.identity);
+            soldier.GetComponentInChildren<SoldierName>().isPlayer = true;
+            soldier.GetComponentInChildren<SoldierName>().playerName = "player";
+            soldier.GetComponentInChildren<TextMeshPro>().text = "player";
         }
     }
 

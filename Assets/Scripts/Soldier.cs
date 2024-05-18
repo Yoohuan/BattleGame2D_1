@@ -17,6 +17,8 @@ public class Soldier : MonoBehaviour
     public bool farAttack2; 
     public bool farAttack3;
     public bool farAttack4;
+    public bool soldier1, soldier2, soldier3, soldier4;
+    public bool isBaseDefender;
 
     List<GameObject> opponentList = new List<GameObject>();
     GameObject barricade;
@@ -26,6 +28,7 @@ public class Soldier : MonoBehaviour
     Vector2 purPos;
     float distance;
     float atkTimeCD;
+    public float baseDefenerLevel;
     int purOpponentID;
 
     bool isHit;
@@ -43,6 +46,7 @@ public class Soldier : MonoBehaviour
         s_Move,
         s_Attack,
         s_Die,
+        s_Update,
     }
 
     State soldierState;
@@ -50,10 +54,12 @@ public class Soldier : MonoBehaviour
     public State SoldierState
     {
         get { return soldierState; }
+        set {  soldierState = value; }
     }
     // Start is called before the first frame update
     void Start()
     {
+        baseDefenerLevel = 0f;
         rb = GetComponent<Rigidbody2D>();
         attackAudio.SetActive(false);
         dieAudio.SetActive(false);
@@ -81,6 +87,7 @@ public class Soldier : MonoBehaviour
     void Update()
     {
         Control();
+        RefreshLevel();
     }
 
     void OnTriggerEnter2D(Collider2D other)
@@ -158,6 +165,7 @@ public class Soldier : MonoBehaviour
     void Idle()
     {
         attackAudio.SetActive(false);
+        soldierAnimator.timeScale = 1f;
         AnimationSet(soldierAnimator, anim_Idle, true, 1f);
         GetAnimation(soldierAnimator);
         if (initDir_Right)
@@ -197,11 +205,13 @@ public class Soldier : MonoBehaviour
         Flip();
         if(isHit)
         {
+            soldierAnimator.timeScale = 1f;
             AnimationSet(soldierAnimator, anim_Hit, true, 1f);
             GetAnimation(soldierAnimator);
         }
         else
         {
+            soldierAnimator.timeScale = 1f;
             AnimationSet(soldierAnimator, anim_Move, true, 1f);
             GetAnimation(soldierAnimator);
         }
@@ -327,7 +337,11 @@ public class Soldier : MonoBehaviour
         }
         else
         {
-            AnimationSet(soldierAnimator, anim_Attack, true, 1f);
+            AnimationSet(soldierAnimator, anim_Attack, true, 1f + 0.05f * baseDefenerLevel);
+            if (isBaseDefender)
+            {
+                soldierAnimator.timeScale = 1f + 0.5f * baseDefenerLevel;
+            }
             GetAnimation(soldierAnimator);
         }
         //transform.LookAt(purPos);
@@ -338,6 +352,7 @@ public class Soldier : MonoBehaviour
             if (purOpponentID == 0 && isAttack)
             {
                 opponentList[purOpponentID].GetComponent<Barricade>().health -= atk;
+                GameObject.FindWithTag("Canvas").GetComponent<PanelControl>().AddScore1();
             }
             else
             {
@@ -415,6 +430,15 @@ public class Soldier : MonoBehaviour
         }
 
     }
+    
+    public void LevelUpdate()
+    {
+        if (baseDefenerLevel < 1)
+        {
+            baseDefenerLevel = Mathf.Min(1f , baseDefenerLevel + 1f);
+        }
+
+    }
 
     public void InHit()
     {
@@ -458,14 +482,18 @@ public class Soldier : MonoBehaviour
         rb.velocity = dir * 0f;
         attackAudio.SetActive(false);
         dieAudio.SetActive(true);
+        soldierAnimator.timeScale = 1f;
         AnimationSet(soldierAnimator, anim_Die, false, 1f);
         GetAnimation(soldierAnimator);
         if (soldierAnimator.AnimationState.GetCurrent(0).IsComplete)
         {
             if (isAttack)
             {
-                attackHealthBar.healthCurrent -= 1;
-                GameObject.FindWithTag("Canvas").GetComponent<PanelControl>().AddScore();
+                if (!GameObject.FindWithTag("Canvas").GetComponent<CreatSoldier>().isPlayerAttack)
+                {
+                    GameObject.FindWithTag("Canvas").GetComponent<PanelControl>().AddScore2();
+                }
+
             }
             Destroy(gameObject);
         }
@@ -525,5 +553,12 @@ public class Soldier : MonoBehaviour
             return;
         }
         skeletonAnimation.state.SetAnimation(0, animation, loop).TimeScale = timeScale;
+    }
+    void RefreshLevel()
+    {
+        if (baseDefenerLevel > 0f) 
+        { 
+            baseDefenerLevel -= Time.deltaTime;
+        }
     }
 }

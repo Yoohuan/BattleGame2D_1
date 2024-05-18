@@ -1,6 +1,7 @@
 using Spine.Unity;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class CreatSoldier : MonoBehaviour
@@ -16,20 +17,45 @@ public class CreatSoldier : MonoBehaviour
     Soldier[] attackSoldierType;
     Soldier[] defendSoldierType;
 
+    public float defendUpdateMul;
+    public float attackUpdateMul;
     public float baseCreatCD;
     public float playerCreatCD;
     public int attackLimit;
     public int defendLimit;
+
+    int soldier1Level;
+    int soldier2Level;
+    int soldier3Level;
+    int soldier4Level;
+    bool hasDefend1;
+    bool hasDefend2;
+    bool hasDefend3;
+    bool hasDefend4;
     float playerCD;
     float creatCD;
     bool canCreat;
+    bool firstCreatDefender;
 
-    public GameObject soldier1Panel, soldier2Panel, soldier3Panel, soldier4Panel;
-    public SkeletonGraphic soldier1Anim, soldier2Anim, soldier3Anim, soldier4Anim;
-    public AnimationReferenceAsset anim1, anim2, anim3, anim4;
+    public GameObject defendSoldier1Panel, defendSoldier2Panel, defendSoldier3Panel, defendSoldier4Panel, defendStartPos, 
+        attackSoldier1Panel, attackSoldier2Panel, attackSoldier3Panel, attackSoldier4Panel, attackStartPos, endPos;
+    public SkeletonGraphic defendSoldier1Anim, defendSoldier2Anim, defendSoldier3Anim, defendSoldier4Anim, 
+        attackSoldier1Anim, attackSoldier2Anim, attackSoldier3Anim, attackSoldier4Anim;
+    public AnimationReferenceAsset defendAnim1, defendAnim2, defendAnim3, defendAnim4, attackAnim1, attackAnim2, attackAnim3, attackAnim4;
+
+    public GameObject baseDefender;
     private string currentState;
     private void Start()
     {
+        soldier1Level = 1;
+        soldier2Level = 1;
+        soldier3Level = 1;
+        soldier4Level = 1;
+        firstCreatDefender = true;
+        hasDefend1 = false;
+        hasDefend2 = false;
+        hasDefend3 = false;
+        hasDefend4 = false;
         attackSoldierType = new Soldier[]
             {soldierFactory.a_Soldier1.prefab,soldierFactory.a_Soldier2.prefab,soldierFactory.a_Soldier3.prefab,soldierFactory.a_Soldier4.prefab,
              soldierFactory.a_Soldier5.prefab,soldierFactory.a_Soldier6.prefab,soldierFactory.a_Soldier7.prefab};
@@ -48,6 +74,21 @@ public class CreatSoldier : MonoBehaviour
         RefreshCD();
     }
 
+    public void CreatBaseSoldier()
+    {
+        if (canCreat && isPlayerAttack)
+        {
+            soldierFactory.A_CreatSoldier1(AttackPos);
+            canCreat = false;
+        }
+        else if (canCreat && !isPlayerAttack && firstCreatDefender)
+        {
+            baseDefender.SetActive(true);
+            firstCreatDefender = false;
+            return;
+
+        }
+    }
 
     public void CreatSoldier1()
     {
@@ -55,17 +96,46 @@ public class CreatSoldier : MonoBehaviour
         {
             soldierFactory.A_CreatSoldier1(AttackPos);
             canCreat = false;
-            soldier1Panel.SetActive(true);
-            AnimationSet(soldier1Anim, anim1, false, 1f);
-            GetAnimation(soldier1Anim);
+            attackSoldier1Panel.SetActive(true);
+            attackSoldier1Panel.transform.localPosition = attackStartPos.transform.localPosition;
+            StartCoroutine(MoveObject_Time(attackSoldier1Panel, attackSoldier1Panel.transform.localPosition, endPos.transform.localPosition, 1f));
+            AnimationSet(attackSoldier1Anim, attackAnim1, false, 1f);
+            GetAnimation(attackSoldier1Anim);
+            for (int i = 0; i < attackList.Count; i++)
+            {
+                if (attackList[i].soldier1 && soldier1Level <= 10)
+                {
+                    attackList[i].atkTime = 
+                        soldierFactory.a_Soldier1.prefab.atkTime - soldierFactory.a_Soldier1.prefab.atkTime * soldier1Level * attackUpdateMul;
+                    attackList[i].speed =
+                        soldierFactory.a_Soldier1.prefab.speed + soldierFactory.a_Soldier1.prefab.speed * soldier1Level * attackUpdateMul;
+                }
+            }
+            soldier1Level += 1;
         }
         else if (canCreat && !isPlayerAttack)
         {
-            soldierFactory.D_CreatSoldier1(DefendPos);
             canCreat = false;
-            soldier1Panel.SetActive(true);
-            AnimationSet(soldier1Anim, anim1, false, 1f);
-            GetAnimation(soldier1Anim);
+            defendSoldier1Panel.SetActive(true);
+            defendSoldier1Panel.transform.localPosition = defendStartPos.transform.localPosition;
+            StartCoroutine(MoveObject_Time(defendSoldier1Panel, defendSoldier1Panel.transform.localPosition, endPos.transform.localPosition, 1f));
+            AnimationSet(defendSoldier1Anim, defendAnim1, false, 1f);
+            GetAnimation(defendSoldier1Anim);
+            if (!hasDefend1)
+            {
+                soldierFactory.D_CreatSoldier1(DefendPos);
+                hasDefend1 = true;
+                return;
+            }
+            for (int i = 0; i < defendList.Count; i++)
+            {
+                if (defendList[i].soldier1 && soldier1Level <= 10)
+                {
+                    defendList[i].atkTime =
+                        soldierFactory.d_Soldier1.prefab.atkTime - soldierFactory.d_Soldier1.prefab.atkTime * soldier1Level * defendUpdateMul;
+                }
+            }
+            soldier1Level += 1;
         }
     }
 
@@ -75,17 +145,46 @@ public class CreatSoldier : MonoBehaviour
         {
             soldierFactory.A_CreatSoldier2(AttackPos);
             canCreat = false;
-            soldier2Panel.SetActive(true);
-            AnimationSet(soldier2Anim, anim2, false, 1f);
-            GetAnimation(soldier2Anim);
+            attackSoldier2Panel.SetActive(true);
+            attackSoldier2Panel.transform.localPosition = attackStartPos.transform.localPosition;
+            StartCoroutine(MoveObject_Time(attackSoldier2Panel, attackSoldier2Panel.transform.localPosition, endPos.transform.localPosition, 1f));
+            AnimationSet(attackSoldier2Anim, attackAnim2, false, 1f);
+            GetAnimation(attackSoldier2Anim);
+            for (int i = 0; i < attackList.Count; i++)
+            {
+                if (attackList[i].soldier2 && soldier2Level <= 10)
+                {
+                    attackList[i].atkTime =
+                        soldierFactory.a_Soldier2.prefab.atkTime - soldierFactory.a_Soldier2.prefab.atkTime * soldier2Level * attackUpdateMul;
+                    attackList[i].speed =
+                        soldierFactory.a_Soldier2.prefab.speed + soldierFactory.a_Soldier2.prefab.speed * soldier2Level * attackUpdateMul;
+                }
+            }
+            soldier2Level += 1;
         }
         else if (canCreat && !isPlayerAttack)
         {
-            soldierFactory.D_CreatSoldier2(DefendPos);
             canCreat = false;
-            soldier2Panel.SetActive(true);
-            AnimationSet(soldier2Anim, anim2, false, 1f);
-            GetAnimation(soldier2Anim);
+            defendSoldier2Panel.SetActive(true);
+            defendSoldier2Panel.transform.localPosition = defendStartPos.transform.localPosition;
+            StartCoroutine(MoveObject_Time(defendSoldier2Panel, defendSoldier2Panel.transform.localPosition, endPos.transform.localPosition, 1f));
+            AnimationSet(defendSoldier2Anim, defendAnim2, false, 1f);
+            GetAnimation(defendSoldier2Anim);
+            if (!hasDefend2)
+            {
+                soldierFactory.D_CreatSoldier2(DefendPos);   
+                hasDefend2 = true;
+                return;
+            }
+            for (int i = 0; i < defendList.Count; i++)
+            {
+                if (defendList[i].soldier2 && soldier2Level <= 10)
+                {
+                    defendList[i].atkTime =
+                        soldierFactory.d_Soldier2.prefab.atkTime - soldierFactory.d_Soldier2.prefab.atkTime * soldier2Level * defendUpdateMul;
+                }
+            }
+            soldier2Level += 1;
         }
     }
 
@@ -95,17 +194,47 @@ public class CreatSoldier : MonoBehaviour
         {
             soldierFactory.A_CreatSoldier3(AttackPos);
             canCreat = false;
-            soldier3Panel.SetActive(true);
-            AnimationSet(soldier3Anim, anim3, false, 1f);
-            GetAnimation(soldier3Anim);
+            attackSoldier3Panel.SetActive(true);
+            attackSoldier3Panel.transform.localPosition = attackStartPos.transform.localPosition;
+            StartCoroutine(MoveObject_Time(attackSoldier3Panel, attackSoldier3Panel.transform.localPosition, endPos.transform.localPosition, 1f));
+            AnimationSet(attackSoldier3Anim, attackAnim3, false, 1f);
+            GetAnimation(attackSoldier3Anim);
+            for (int i = 0; i < attackList.Count; i++)
+            {
+                if (attackList[i].soldier3 && soldier3Level <= 10)
+                {
+                    attackList[i].atkTime =
+                        soldierFactory.a_Soldier3.prefab.atkTime - soldierFactory.a_Soldier3.prefab.atkTime * soldier3Level * attackUpdateMul;
+                    attackList[i].speed =
+                        soldierFactory.a_Soldier3.prefab.speed + soldierFactory.a_Soldier3.prefab.speed * soldier3Level * attackUpdateMul;
+                }
+            }
+            soldier3Level += 1;
         }
         else if (canCreat && !isPlayerAttack)
         {
-            soldierFactory.D_CreatSoldier3(DefendPos);
             canCreat = false;
-            soldier3Panel.SetActive(true);
-            AnimationSet(soldier3Anim, anim3, false, 1f);
-            GetAnimation(soldier3Anim);
+            defendSoldier3Panel.SetActive(true);
+            defendSoldier3Panel.transform.localPosition = defendStartPos.transform.localPosition;
+            StartCoroutine(MoveObject_Time(defendSoldier3Panel, defendSoldier3Panel.transform.localPosition, endPos.transform.localPosition, 1f));
+            AnimationSet(defendSoldier3Anim, defendAnim3, false, 1f);
+            GetAnimation(defendSoldier3Anim);
+            if (!hasDefend3)
+            {
+                soldierFactory.D_CreatSoldier3(DefendPos);
+
+                hasDefend3 = true;
+                return;
+            }
+            for (int i = 0; i < defendList.Count; i++)
+            {
+                if (defendList[i].soldier3 && soldier3Level <= 10)
+                {
+                    defendList[i].atkTime =
+                        soldierFactory.d_Soldier3.prefab.atkTime - soldierFactory.d_Soldier3.prefab.atkTime * soldier3Level * defendUpdateMul;
+                }
+            }
+            soldier3Level += 1;
         }
     }
 
@@ -115,37 +244,83 @@ public class CreatSoldier : MonoBehaviour
         {
             soldierFactory.A_CreatSoldier4(AttackPos);
             canCreat = false;
-            soldier4Panel.SetActive(true);
-            AnimationSet(soldier4Anim, anim4, false, 1f);
-            GetAnimation(soldier4Anim);
+            attackSoldier4Panel.SetActive(true);
+            attackSoldier4Panel.transform.localPosition = attackStartPos.transform.localPosition;
+            StartCoroutine(MoveObject_Time(attackSoldier4Panel, attackSoldier4Panel.transform.localPosition, endPos.transform.localPosition, 1f));
+            AnimationSet(attackSoldier4Anim, attackAnim4, false, 1f);
+            GetAnimation(attackSoldier4Anim);
+            for (int i = 0; i < attackList.Count; i++)
+            {
+                if (attackList[i].soldier4 && soldier4Level <= 10)
+                {
+                    attackList[i].atkTime =
+                        soldierFactory.a_Soldier4.prefab.atkTime - soldierFactory.a_Soldier4.prefab.atkTime * soldier4Level * attackUpdateMul;
+                    attackList[i].speed =
+                        soldierFactory.a_Soldier4.prefab.speed + soldierFactory.a_Soldier4.prefab.speed * soldier4Level * attackUpdateMul;
+                }
+            }
+            soldier4Level += 1;
         }
         else if (canCreat && !isPlayerAttack)
         {
-            soldierFactory.D_CreatSoldier4(DefendPos);
             canCreat = false;
-            soldier4Panel.SetActive(true);
-            AnimationSet(soldier4Anim, anim4, false, 1f);
-            GetAnimation(soldier4Anim);
+            defendSoldier4Panel.SetActive(true);
+            defendSoldier4Panel.transform.localPosition = defendStartPos.transform.localPosition;
+            StartCoroutine(MoveObject_Time(defendSoldier4Panel, defendSoldier4Panel.transform.localPosition, endPos.transform.localPosition, 1f));
+            AnimationSet(defendSoldier4Anim, defendAnim4, false, 1f);
+            GetAnimation(defendSoldier4Anim);
+            if (!hasDefend4)
+            {
+                soldierFactory.D_CreatSoldier4(DefendPos);
+
+                hasDefend4 = true;
+                return;
+            }
+            for (int i = 0; i < defendList.Count; i++)
+            {
+                if (defendList[i].soldier4 && soldier4Level <= 10)
+                {
+                    defendList[i].atkTime =
+                        soldierFactory.d_Soldier4.prefab.atkTime - soldierFactory.d_Soldier4.prefab.atkTime * soldier4Level * defendUpdateMul;
+                }
+            }
+            soldier4Level += 1;
         }
     }
 
     void AnimControl()
     {
-        if (soldier1Anim.AnimationState.GetCurrent(0).IsComplete)
+        if (attackSoldier1Anim.AnimationState.GetCurrent(0).IsComplete)
         {
-            soldier1Panel.SetActive(false);
+            attackSoldier1Panel.SetActive(false);
         }
-        if (soldier2Anim.AnimationState.GetCurrent(0).IsComplete)
+        if (attackSoldier2Anim.AnimationState.GetCurrent(0).IsComplete)
         {
-            soldier2Panel.SetActive(false);
+            attackSoldier2Panel.SetActive(false);
         }
-        if (soldier3Anim.AnimationState.GetCurrent(0).IsComplete)
+        if (attackSoldier3Anim.AnimationState.GetCurrent(0).IsComplete)
         {
-            soldier3Panel.SetActive(false);
+            attackSoldier3Panel.SetActive(false);
         }
-        if (soldier4Anim.AnimationState.GetCurrent(0).IsComplete)
+        if (attackSoldier4Anim.AnimationState.GetCurrent(0).IsComplete)
         {
-            soldier4Panel.SetActive(false);
+            attackSoldier4Panel.SetActive(false);
+        }
+        if (defendSoldier1Anim.AnimationState.GetCurrent(0).IsComplete)
+        {
+            defendSoldier1Panel.SetActive(false);
+        }
+        if (defendSoldier2Anim.AnimationState.GetCurrent(0).IsComplete)
+        {
+            defendSoldier2Panel.SetActive(false);
+        }
+        if (defendSoldier3Anim.AnimationState.GetCurrent(0).IsComplete)
+        {
+            defendSoldier3Panel.SetActive(false);
+        }
+        if (defendSoldier4Anim.AnimationState.GetCurrent(0).IsComplete)
+        {
+            defendSoldier4Panel.SetActive(false);
         }
     }
 
@@ -171,7 +346,7 @@ public class CreatSoldier : MonoBehaviour
         {
             if (!isPlayerAttack)
             {
-                for (int i = 0; i < 6; i++)
+                for (int i = 0; i < 10; i++)
                 {
                     attackList.Add(Instantiate(attackSoldierType[Random.Range(0, 6)], GetRandomPos(AttackPos), Quaternion.identity));
                 }
@@ -241,7 +416,6 @@ public class CreatSoldier : MonoBehaviour
 
     void GetAnimation(SkeletonGraphic skeletonAnimation)
     {
-        //��ȡ���ڲ��ŵĶ���
         currentState = skeletonAnimation.initialSkinName;
     }
     void AnimationSet(SkeletonGraphic skeletonAnimation, AnimationReferenceAsset animation, bool loop, float timeScale)
@@ -251,6 +425,30 @@ public class CreatSoldier : MonoBehaviour
             return;
         }
         skeletonAnimation.AnimationState.SetAnimation(0, animation, loop).TimeScale = timeScale;
+    }
+
+    void GetAnimation(SkeletonAnimation skeletonAnimation)
+    {
+        currentState = skeletonAnimation.AnimationName;
+    }
+    void AnimationSet(SkeletonAnimation skeletonAnimation, AnimationReferenceAsset animation, bool loop, float timeScale)
+    {
+        if (animation.name.Equals(currentState))
+        {
+            return;
+        }
+        skeletonAnimation.state.SetAnimation(0, animation, loop).TimeScale = timeScale;
+    }
+
+    private IEnumerator MoveObject_Time(GameObject UIGameObject, Vector3 startPos, Vector3 endPos, float time)
+    {
+        float dur = 0.0f;
+        while (dur <= time)
+        {
+            dur += Time.deltaTime;
+            UIGameObject.transform.localPosition = Vector3.Lerp(startPos, endPos, dur / time);
+            yield return null;
+        }
     }
 
 }
